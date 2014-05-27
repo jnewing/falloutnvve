@@ -1,0 +1,1365 @@
+01004746	NVDLC03PlayerTrunk	CONT	 	Trunk
+01004749	NVDLC03SinkToolbox	CONT	 	Toolbox
+0100474C	NVDLC03SinkSupplyChute	CONT	 	Supply Chute
+010048FD	NVDLC03SinkPaperRecycler	CONT	 	Paper Recycler
+01004902	NVDLC03SinkResearchTerminal	TERM	 	Research Terminal
+0100493F	NVDLC03SLChemicalINT	CELL	 	Z-43 Innovative Toxins Plant
+01004940	NVDLC03SLTunnelWestINT	CELL	 	Big MT West Tunnel
+0100494B	NVDLC03SLSatelliteStationINT	CELL	 	X-2 Transmitter Antenna Array
+0100494F	NVDLC03SLCommunicationsINT	CELL	 	Signal Hills Transmitter
+00121157	EMPPulseGunBeam	ENCH	 	EMP Pulse Gun Beam
+00101A46	NellisGenerator	CELL	 	Nellis Array Generators
+00061909	HotelElevatorDoor02	DOOR	 	Elevator
+01006880	NVDLC03SLCuckoosNestINT	CELL	 	Cuckoo's Nest
+01006881	NVDLC03SLH2OINT	CELL	 	Magnetohydraulics Complex
+01006882	NVDLC03SLTunnelNorthINT	CELL	 	Big MT North Tunnel
+000E29C1	DLC03TeslaCannonEMP	ENCH	 	Electromagnetic Pulse
+01006D8D	NVDLC03X13Setup	QUST	 	Project X-13
+01006DA3	NVDLC03X13CrRobobrainArmy	CREA	 	Test Dummy Robobrain
+01006DA5	NVDLC03X13LaserTripwireEmitter01	ACTI	 	Laser Tripwire Emitter
+01006DA9	NVDLC03X13PatrolFaction	FACT	 	X13 Robot Patrols
+01006DAA	NVDLC03SLVillageBorousINT	CELL	 	#103
+01006DAC	NVDLC03SLVillage8INT	CELL	 	#108
+01006DAD	NVDLC03SLVillageMobiusINT	CELL	 	#102
+01006DAE	NVDLC03SLVillageKleinINT	CELL	 	#101
+01006DAF	NVDLC03SLVillageOINT	CELL	 	#00
+01006DB3	NVDLC03SLVillageBorousBINT	CELL	 	Basement
+0100711E	NVDLC03X8SchoolEntryTrigger	ACTI	 	School Entry Trigger
+0100711F	NVDLC03X8TunnelEntryTrigger	ACTI	 	X8 Tunnel Entry Trigger
+010078EA	NVDLC03SLNightstalkerINT	CELL	 	Z-9 Crotalus DNA Preservation Lab
+010078EB	NVDLC03SLSecuritronINT	CELL	 	Securitron De-Construction Plant
+010079E5	NVDLC03DeskOfficeMetalCornerLOW	CONT	 	Desk
+010079E8	NVDLC03DeskOfficeMetalLOW	CONT	 	Desk
+0100800D	NVDLC03AtomicPerkMessageBE	MGEF	 	Atomic Perk Message
+0100800F	NVDLC03AtomicStrBoostAE	SPEL	 	Atomic Strength
+01008010	NVDLC03AtomicDisplayTextAE	SPEL	 	Atomic Text
+01008011	NVDLC03AtomicPerk	PERK	 	Atomic!
+01008013	NVDLC03AtomicPerkStrengthBE	MGEF	 	Atomic Strength
+010086CA	NVDLC03SLCazadorINT	CELL	 	Z-14 Pepsinae DNA Splicing Lab
+010086CB	NVDLC03SLVillageDalaINT	CELL	 	#104
+01008879	NVDLC03SLHologramINT	CELL	 	Z-38 Lightwave Dynamics Research
+00164E29	SLDeadWindCavernINT	CELL	 	Dead Wind Cavern
+01008EC3	NVDLC03SLMedCenterINT	CELL	 	Y-17 Medical Facility
+010094C4	NVDLC03SLChemicalMarker	MAPM	 	Z-43 Innovative Toxins Plant
+010094D0	NVDLC03MetroGate	DOOR	 	Gate
+010094D4	NVDLC03SLTunnelWestMarker	MAPM	 	Big MT West Tunnel
+0100955B	NVDLC03SLSaturniteMarker	MAPM	 	Saturnite Alloy Research Facility
+01009575	NVDLC03SLVillageMarker	MAPM	 	Higgs Village
+0100957B	NVDLC03SLCazadorMarker	MAPM	 	Z-14 Pepsinae DNA Splicing Lab
+0100957C	NVDLC03SLNightstalkerMarker	MAPM	 	Z-9 Crotalus DNA Preservation Lab
+0100957E	NVDLC03CommMarker	MAPM	 	Signal Hills Transmitter
+01009581	NVDLC03SLWeatherStationMarker	MAPM	 	X-17 Meteorological Station
+0100958B	NVDLC03LittleYangtzeMarker	MAPM	 	Little Yangtze
+0100958F	NVDLC03SLHologramMarker	MAPM	 	Z-38 Lightwave Dynamics Research
+01009591	NVDLC03SLCuckoosNestMarker	MAPM	 	The Cuckoo's Nest
+01009594	NVDLC03SLTunnelEastMarker	MAPM	 	Big MT East Tunnel
+01009596	NVDLC03SatelliteStationMapMarker	MAPM	 	X-2 Transmitter Antenna Array
+0100959B	NVDLC03SLArtilleryLandingMarker	MAPM	 	X-7b [QUOTE]Boom Town[QUOTE] Target Zone
+0100959C	NVDLC03SLArtilleryLaunchMarker	MAPM	 	X-7a [QUOTE]Left Field[QUOTE] Artillery Launch
+010095A1	NVDLC03MedCenterMarker	MAPM	 	Y-17 Medical Facility
+010095A8	NVDLC03X8MapMarker	MAPM	 	X-8 Research Center
+010095AB	NVDLC03SLHazmatMarker	MAPM	 	Hazmat Testing Ground
+010095AF	NVDLC03SLDisintegrationMarker	MAPM	 	Waste Disintegration Platform
+010095B2	NVDLC03SLSecuritronMarker	MAPM	 	Securitron De-Construction Plant
+010095B7	NVDLC03SLRuinsMarker	MAPM	 	Y-0 Research Center
+010095BA	NVDLC03SLBotanicalMarker	MAPM	 	X-22 Botanical Garden
+010095BD	NVDLC03NorthTunnelMarker	MAPM	 	Big MT North Tunnel
+010095C3	NVDLC03MagnetohydraulicsMarker	MAPM	 	Magnetohydraulics Complex
+01009614	NVDLC03ImplantM5Perk	PERK	 	Implant M-5
+01009615	NVDLC03ImplantY3Perk	PERK	 	Implant Y-3
+01009616	NVDLC03ImplantC13Perk	PERK	 	Implant C-13
+01009617	NVDLC03DNAgentPerk	PERK	 	DNAgent
+01009618	NVDLC03NightstalkerSqueezins	ALCH	 	Nightstalker Squeezin's
+01009619	NVDLC03MileInTheirShoesPerk	PERK	 	Mile in Their Shoes
+0100961A	NVDLC03ImplantY7Perk	PERK	 	Implant Y-7
+01009701	NVDLC03WeapProtonAxeInversal	WEAP	 	Protonic Inversal Axe
+01009796	NVDLC03X8MainCodeBox	ACTI	 	X8 Main Code Box
+01009797	NVDLC03X8Terminal02	TERM	 	X-8 Kennel Terminal
+010098BA	NVDLC03CrSecuritronBerserk01	CREA	 	Berserk Securitron Mk1
+010098BC	NVDLC03SpinelessPerk	PERK	 	Spineless
+010098BE	NVDLC03BrainlessPerk	PERK	 	Brainless
+010098BF	NVDLC03IncreasedDamageResistance	SPEL	 	Increased Damage Resistance
+010098C0	NVDLC03TorsoRestoration	SPEL	 	Torso Restoration
+010098C1	NVDLC03SpinelessStrBoostAE	SPEL	 	Spineless Strength
+010098C2	NVDLC03HeartlessPerk	PERK	 	Heartless
+010098C4	NVDLC03ThinRedPaste	ALCH	 	Thin Red Paste
+010098C5	NVDLC03BloodSausage	ALCH	 	Blood Sausage
+010098C9	NVDLC03ThemsGoodEatingPerk	PERK	 	Them's Good Eatin'
+000E5745	NovacAbandonedShack	CELL	 	Gibson's Shack
+01009A21	NVDLC03DomeThinkTankMarker	MAPM	 	The Think Tank
+01009A23	NVDLC03TheSinkBalconyMarker	MAPM	 	The Sink Balcony
+01009A25	NVDLC03FZDomeEntranceMapMarker	MAPM	 	Forbidden Zone Dome Entrance
+01009C8E	NVDLC03CrProtectron20	CREA	 	Protectron Mk3
+01009C8F	NVDLC03CrProtectron10	CREA	 	Protectron Mk2
+01009C90	NVDLC03CrProtectron01	CREA	 	Protectron Mk1
+01009CDD	NVDLC03CrCyberDogMilitary10	CREA	 	Military Cyber Dog
+01009CDE	NVDLC03CrCyberDogMilitary20	CREA	 	Military Cyber Dog
+01009CDF	NVDLC03CrCyberDogMilitary30	CREA	 	Military Cyber Dog
+01009CE7	NVDLC03X8CaveExitTrigger	ACTI	 	X8 Cave Exit Trigger
+01009CE8	NVDLC03X8CavetoMainDoor	DOOR	 	Door
+01009D01	NVDLC03X8Faction	FACT	 	X8 Faction
+01009D3C	NVDLC03CrNightstalker01	CREA	 	Nightstalker
+01009D3D	NVDLC03CrNightstalker10	CREA	 	Nightstalker
+01009D3E	NVDLC03CrNightstalker20	CREA	 	Nightstalker
+01009D44	NVDLC03X8Terminal03	TERM	 	X-8 Main Terminal
+01009D46	NVDLC03X8Terminal04	TERM	 	X-8 Splicing Facility Terminal
+01009D48	NVDLC03ImplantGRXPerk	PERK	 	Implant GRX
+01009D4A	NVDLC03ImplantGRX	ALCH	 	Implant GRX
+01009D4B	NVDLC03ImplantGRXBE	MGEF	 	Implant GRX Scripted Effect
+01009DE1	NVDLC03ChallengeKleinDestine	CHAL	 	Klein Destine
+01009DE2	NVDLC03AchievementMakeUpYourMind	CHAL	 	Make Up Your Mind
+01009DE3	NVDLC03AchievementSpinalTapped	CHAL	 	Spinal-Tapped!
+01009DE4	NVDLC03AchievementChangeofHeart	CHAL	 	Cardiac Arrest!
+01009DE5	NVDLC03AchievementOutSmarted	CHAL	 	Outsmarted
+01009DE7	NVDLC03ChallengeMobiusStrip	CHAL	 	Mobius Strip
+01009DF1	NVDLC03CrMisterHandyX8	CREA	 	Mister Handy
+01009DF2	NVDLC03CrDogX8	CREA	 	Dog
+01009FF0	NVDLC03ToolCabinetMetalLOW	CONT	 	Tool Cabinet
+01009FF1	NVDLC03MetalBox01MilitaryLOW	CONT	 	Metal Box
+01009FF2	NVDLC03MetalBox01OfficeLOW	CONT	 	Metal Box
+01009FF3	NVDLC03LockerLOW	CONT	 	Locker
+01009FF4	NVDLC03LockerGroupLOW	CONT	 	Locker
+01009FF5	NVDLC03FootlockerFactoryLOW	CONT	 	Footlocker
+01009FF6	NVDLC03FootlockerMilitaryLOW	CONT	 	Footlocker
+01009FF7	NVDLC03FilingCabinetLOW	CONT	 	Filing Cabinet
+01009FF8	NVDLC03FilingCabinetGroup01LOW	CONT	 	Filing Cabinets
+01009FF9	NVDLC03FilingCabinetGroup02LOW	CONT	 	Filing Cabinets
+01009FFA	NVDLC03FilingCabinetGroup03LOW	CONT	 	Filing Cabinets
+01009FFB	NVDLC03LockerCabinetLOW	CONT	 	Cabinet
+01009FFC	NVDLC03ToolboxLOW	CONT	 	Toolbox
+01009FFD	NVDLC03WeapGlovesScientist	WEAP	 	Scientist Glove
+01009FFF	ARMAnvdlc03ScientistGlovesR	ARMA	 	ScientistGloves
+0100A000	ARMAnvdlc03ScientistGlovesL	ARMA	 	ScientistGloves
+0100A108	NVDLC03CrMisterGutsy01	CREA	 	Mister Gutsy Mk1
+0100A109	NVDLC03CrMisterGutsy20	CREA	 	Mister Gutsy Mk3
+0100A10A	NVDLC03CrMisterGutsy10	CREA	 	Mister Gutsy Mk2
+0100A10C	NVDLC03CrMisterHandy01Respawn	CREA	 	Crazed Mister Handy
+0100A10D	NVDLC03CrMisterHandy10Respawn	CREA	 	Crazed Mister Handy
+0100A10E	NVDLC03CrMisterHandy20Respawn	CREA	 	Crazed Mister Handy
+0100A110	NVDLC03CrMisterHandyNeutralRespawn	CREA	 	Mister Handy
+0100A111	NVDLC03CrSentryBot01	CREA	 	Sentry Bot Mk1
+0100A112	NVDLC03CrSentryBot10	CREA	 	Sentry Bot Mk2
+0100A113	NVDLC03CrSentryBot20	CREA	 	Sentry Bot Mk3
+0100A114	NVDLC03CrSecuritronBerserk10	CREA	 	Berserk Securitron Mk2
+0100A115	NVDLC03CrSecuritronBerserk20	CREA	 	Berserk Securitron Mk3
+0100A117	NVDLC03CrTurretAvg	CREA	 	Mark IV Turret
+0100A118	NVDLC03CrTurretEasy	CREA	 	Mark II Turret
+0100A119	NVDLC03CrTurretHard	CREA	 	Mark VI Turret
+0100A11A	NVDLC03CrRobobrain01	CREA	 	Robobrain Mk1
+0100A11B	NVDLC03CrRobobrain10	CREA	 	Robobrain Mk2
+0100A11C	NVDLC03CrRobobrain30	CREA	 	Robobrain Mk4
+0100A11D	NVDLC03CrRobobrainNeutralRespawn	CREA	 	Robobrain
+0100A11F	NVDLC03CrCazador01	CREA	 	Cazador
+0100A120	NVDLC03CrCazador20	CREA	 	Cazador
+0100A121	NVDLC03CrCazador30	CREA	 	Cazador
+0100A122	NVDLC03CrRoboScorpion01	CREA	 	Robo-Scorpion Mk1
+0100A123	NVDLC03CrRoboScorpion10	CREA	 	Robo-Scorpion Mk2
+0100A124	NVDLC03CrRoboScorpion20	CREA	 	Robo-Scorpion Mk3
+0100A12F	ARMAnvdlc03corrosiveglovesL	ARMA	 	corrosivegloves
+0100A130	NVDLC03WeapGlovesCorrosive	WEAP	 	Corrosive Glove
+0100A131	ARMAnvdlc03corrosiveglovesR	ARMA	 	corrosivegloves
+0100A135	NVDLC03WeapGlovesSterilizer	WEAP	 	Sterilizer Glove
+0100A138	NVDLC03WeapGlovesDrMobiusL	WEAP	 	Dr. Mobius' Glove
+0100A13E	NVDLC03WeapGlovesDrKleinL	WEAP	 	Dr. Klein's Glove
+0100A143	ARMANVDLC03DrKleinglovesL	ARMA	 	NVDLC03DrKleingloves
+0100A144	ARMANVDLC03DrKleinglovesR	ARMA	 	NVDLC03DrKleingloves
+0100A145	ARMANVDLC03SterilizerglovesL	ARMA	 	NVDLC03Sterilizergloves
+0100A146	ARMANVDLC03SterilizerglovesR	ARMA	 	NVDLC03Sterilizergloves
+0100A147	ARMANVDLC03DrMobiusglovesL	ARMA	 	NVDLC03DrMobiusgloves
+0100A148	ARMANVDLC03DrMobiusglovesR	ARMA	 	NVDLC03DrMobiusgloves
+000E5F5F	Vault11a	CELL	 	Vault 11
+0100A28D	NVDLC03BrainBeam1HPRight	WEAP	 	Brain Beam
+0100A28E	NVDLC03BrainMesmetron	WEAP	 	Brain Mesmetron
+0100A37F	NVDLC03X8ExperimentHusk	NPC_	 	Lobotomite
+0100A380	NVDLC03CrCyberDogX8Experiment	CREA	 	Roxie
+0100A381	NVDLC03X8ExperimentRobobrain01	CREA	 	Robobrain
+0100A3A1	NVDLC03Skeleton	ARMO	 	Skeleton
+0100A3A2	NVDLCSkeletonHead	ARMO	 	SkeletonHead
+0100A3A5	NVDLC03X13UtlDoor01	DOOR	 	Door
+0100A40E	dalptest	NPC_	 	dalptest
+0100A446	NVDLC03ChallengeX8Testing01	CHAL	 	Dog Run I - Dog Gone
+0100A447	NVDLC03ChallengeX8Testing02	CHAL	 	Dog Run II - Who let the...
+0100A448	NVDLC03ChallengeX8Testing03	CHAL	 	Dog Run III - Snake Skins
+0100A449	NVDLC03ChallengeX13Testing01	CHAL	 	VR the Champions I - Simulated
+0100A44A	NVDLC03ChallengeX13Testing02	CHAL	 	VR the Champions II - Simulacra
+0100A44B	NVDLC03ChallengeX13Testing03	CHAL	 	VR the Champions III - Hollowed Out
+0100A44C	NVDLC03ChallengeMTSpace	CHAL	 	MT Space
+0100A44D	NVDLC03ChallengeOuterSpace	CHAL	 	Outer Space
+0100A736	NVDLC03EncCodeBox	ACTI	 	Encounter Code Box
+0100A737	NVDLC03EncList	ACTI	 	Encounter Spawn List
+0100A755	NVDLC03Enc	QUST	 	NVDLC03Enc
+0100A76F	NVDLC03SkeletonSpaceSuit	ARMO	 	SkeletonSpaceSuit
+0100A930	NVDLC03ForbiddenZoneTrigger	ACTI	 	NVDLC03 Forbidden Zone Trigger
+000463CE	IndDoorSmAnim01	DOOR	 	Door
+0100A936	NVDLC03ThinkTankFaction	FACT	 	NVDLC03 Think Tank Faction
+0100A93E	NVDLC03Lobotomite01Avg	NPC_	 	Lobotomite
+0100A93F	NVDLC03Lobotomite01Easy	NPC_	 	Lobotomite
+0100A940	NVDLC03Lobotomite01Hard	NPC_	 	Lobotomite
+0100A946	NVDLC03EncHoldingCell	CELL	 	Encounters
+0100AC6C	NVDLC03X8Trigger	ACTI	 	X8 Trigger
+00166C0F	musCtrlGnrcSubtleCity	ALOC	 	musCtrlGnrcSubtleCity
+0100ACF4	NVDLC03X13MapMarker	MAPM	 	X-13 Research Facility
+0100ACF9	NVDLC03SatelliteStationTrigger	ACTI	 	Satellite Station Quest Update Trigger
+0100ACFC	NVDLC03PlayerBrainTank	TACT	 	Your Brain
+0100ACFF	NVDLC03orbittingHelmetoneLoop	ARMO	 	Valence Radii-Accentuator
+0100AD01	NVDLC03X8CaveTrigger	ACTI	 	X8 Cave Trigger
+0100AD02	NVDLC03X8CaveMoundSonicGun	CONT	 	Gabe's Digging Spot
+0100AD03	NVDLC03X8CaveMound	CONT	 	Gabe's Digging Spot
+0100AD04	NVDLC03CrX8CyberDogClassRoom	CREA	 	Police Cyber Dog
+000E6A6E	Vault11c	CELL	 	Vault 11 Lower Level
+0100AD1D	NVDLC03DoghouseExplosion	EXPL	 	Frag Explosion
+0100ADBD	NVDLC03OrbittingHelmet3Loop	ARMO	 	Atomic-Valence Tri-Radii-Oscillator
+000E70AA	TechatticupMineInterior	CELL	 	Techatticup Mine
+0100B9C2	NVDLC03CrSewerRat01Respawn	CREA	 	Sewer Rat
+0100B9CF	NVDLC03WeapLaer	WEAP	 	LAER
+0100BB56	NVDLC03X13ExitDoor	DOOR	 	Door
+0100BB57	NVDLC03X13EntranceDoor	DOOR	 	Door
+0100BB58	NVDLC03X13TestNotesTerminal	TERM	 	Terminal
+0100BB59	NVDLC03X13TestTerminal	TERM	 	Research Terminal
+0100BB5A	NVDLC03X13TestParametersTerminal	TERM	 	Terminal
+0100BB5E	NVDLC03WeapProtonAxeThrown	WEAP	 	Proton Throwing Axe
+0100BB5F	NVDLC03WeapProtonAxeInversalThrown	WEAP	 	Protonic Inversal Throwing Axe
+0100BB61	NVDLC03X8TurretTermSchool02	TERM	 	X-8 Turret Control System
+0100BB62	NVDLC03X8TurretTermSchool01	TERM	 	X-8 Turret Control System
+0100BE21	NVDLC03SinkBalconyDoor	DOOR	 	Balcony Door
+0100BE3F	NVDLC03AuralStealthSuitOE	ENCH	 	Stealth Suit Mk II
+0100BE8F	NVDLC03X13SuitCompleteMsg	MESG	 	X-13 Experimental Stealth Suit Complete
+0100BEAA	NVDLC03X13SuitBoots	MISC	 	Prototype X-13 Boots
+0100BEAB	NVDLC03X13SuitGloves	MISC	 	Prototype X-13 Gloves
+0100BEAC	NVDLC03X13SuitChest	MISC	 	Prototype X-13 Chest Plate
+0100BEB6	NVDLC03DrinkUrinal01Avg	ACTI	 	Urinal
+0100BEB7	NVDLC03DrinkToilet01Avg	ACTI	 	Toilet
+0100BEB8	NVDLC03DrinkSink01Avg	ACTI	 	Sink
+0100BEB9	NVDLC03DrinkWaterfountain01Avg	ACTI	 	Water Fountain
+0100C127	NVDLC03LaserStinger	WEAP	 	LaserStinger
+0100C129	NVDLC03RoboScorpionSmall	CREA	 	Robo-Scorpion Mk1
+0100C12C	NVDLC03LaserStingerProjectile	PROJ	 	NVDLC03LaserStinger
+0100C12E	NVDLC03StealthsuitEffect	ENCH	 	Stealth Suit
+0100C12F	NVDLC03AuralStealthsuit	ARMO	 	Stealth Suit Mk II
+0100C17A	NVDLC03X13FieldGun	WEAP	 	X-13 Field Disruptor Pistol
+0100C212	NVDLC03X8CrTurretLvl	CREA	 	Hall Monitor
+0100C297	NVDLC03WeapAntenna	WEAP	 	X-2 Antenna
+0100C652	NVDLC03TTankSlidingDoor01	DOOR	 	Door
+0100C6F7	NVDLC03LobotomiteGoggles	ARMO	 	Lobotomite Goggles
+0100C6FA	NVDLC03Higgs	WRLD	 	Higgs Village
+0100C7DD	NVDLC03HotPlate	ACTI	 	Hot Plate
+0100C88F	NVDLC03X13RobotCompliance	PERK	 	Robot Compliance
+0100C894	NVDLC03X13RobotComplianceNote	NOTE	 	Robot Compliance
+0100C895	NVDLC03X13InfiltrationNote	NOTE	 	Basic Infiltration
+000E8609	VVCorpse01	NPC_	 	Wastelander
+0100C8C2	NVDLC03SinkLightSwitch	ACTI	 	Light Switch
+0100C8DD	NVDLC03MeetKleinTrigger	ACTI	 	Player Meets Klein Trigger
+0100CA13	NVDLC03ArtilleryControls	ACTI	 	Artillery Controls
+0100CB1C	NVDLC03CrCazador10	CREA	 	Cazador
+0100CB1D	NVDLC03CrCazador40	CREA	 	Cazador
+0100CB1E	NVDLC03CrCazador50	CREA	 	Cazador
+0100CB1F	NVDLC03CrCyberDogMilitary01	CREA	 	Military Cyber Dog
+0100CB20	NVDLC03CrCyberDogMilitary40	CREA	 	Military Cyber Dog
+0100CB21	NVDLC03CrCyberDogMilitary50	CREA	 	Military Cyber Dog
+0100CB22	NVDLC03CrRoboScorpion30	CREA	 	Robo-Scorpion Mk4
+0100CB23	NVDLC03CrRoboScorpion40	CREA	 	Robo-Scorpion Mk5
+0100CB24	NVDLC03CrRoboScorpion50	CREA	 	Robo-Scorpion Mk6
+0100CB25	NVDLC03CrMisterGutsy30	CREA	 	Mister Gutsy Mk4
+0100CB26	NVDLC03CrMisterGutsy40	CREA	 	Mister Gutsy Mk5
+0100CB27	NVDLC03CrMisterGutsy50	CREA	 	Mister Gutsy Mk6
+0100CB28	NVDLC03CrMisterHandy30Respawn	CREA	 	Crazed Mister Handy
+0100CB29	NVDLC03CrMisterHandy40Respawn	CREA	 	Crazed Mister Handy
+0100CB2A	NVDLC03CrMisterHandy50Respawn	CREA	 	Crazed Mister Handy
+0100CB2B	NVDLC03CrNightstalker30	CREA	 	Nightstalker
+0100CB2C	NVDLC03CrNightstalker40	CREA	 	Nightstalker
+0100CB2D	NVDLC03CrNightstalker50	CREA	 	Nightstalker
+0100CB2E	NVDLC03CrProtectron30	CREA	 	Protectron Mk4
+0100CB2F	NVDLC03CrProtectron40	CREA	 	Protectron Mk5
+0100CB30	NVDLC03CrProtectron50	CREA	 	Protectron Mk6
+0100CB31	NVDLC03CrRobobrain20	CREA	 	Robobrain Mk3
+0100CB32	NVDLC03CrRobobrain40	CREA	 	Robobrain Mk5
+0100CB33	NVDLC03CrRobobrain50	CREA	 	Robobrain Mk6
+0100CB34	NVDLC03CrSecuritronBerserk30	CREA	 	Berserk Securitron Mk4
+0100CB35	NVDLC03CrSecuritronBerserk40	CREA	 	Berserk Securitron Mk5
+0100CB36	NVDLC03CrSecuritronBerserk50	CREA	 	Berserk Securitron Mk6
+0100CB37	NVDLC03CrSentryBot30	CREA	 	Sentry Bot Mk4
+0100CB38	NVDLC03CrSentryBot40	CREA	 	Sentry Bot Mk5
+0100CB39	NVDLC03CrSentryBot50	CREA	 	Sentry Bot Mk6
+0100CC1F	NVDLC03SatelliteDishLadder	DOOR	 	Satellite Dish Ladder
+0100CC33	NVDLC03SLX12INT	CELL	 	X-12
+0100CDC6	NVDLC03SnowGlobe	MISC	 	Snow Globe - Big MT
+00108BED	TestMentats	CELL	 	Mentats Test Level
+0100CE75	NVDLC03CorpseSuitAvg	NPC_	 	Y-17 Trauma Override Harness
+0100CE76	NVDLC03CorpseSuitEasy	NPC_	 	Y-17 Trauma Override Harness
+0100CE77	NVDLC03CorpseSuitHard	NPC_	 	Y-17 Trauma Override Harness
+0100D352	NVDLC03X8Gabe10	CREA	 	Gabe
+0100D353	NVDLC03X8Gabe20	CREA	 	Gabe
+0100D354	NVDLC03X8Gabe30	CREA	 	Gabe
+0100D355	NVDLC03X8Gabe40	CREA	 	Gabe
+0100D356	NVDLC03X8Gabe50	CREA	 	Gabe
+0100D36C	NVDLC03HQJukeBoxMsg	MESG	 	Soundwave Recalibration
+0100D36D	NVDLC03SinkJukeBox	ACTI	 	Sound Wave Recalibrator
+0100D4C0	NVDLC03X13Fenix	NPC_	 	Dr. Calis
+0100D56F	NVDLC03PatientGown	ARMO	 	Patient Gown
+0100D58B	NVDLC03SinkToolCabinet	CONT	 	Storage Cabinet
+0100D590	NVDLC03HQNukaColaMachineMsg	MESG	 	Modified Nuka-Cola Machine
+0100D591	NVDLC03SinkNukaColaMachine	CONT	 	Nuka-Cola Vending Machine
+0100D61D	NVDLC03DoctorMobius10	CREA	 	Doctor Mobius
+0100D61E	NVDLC03DoctorMobius20	CREA	 	Doctor Mobius
+0100D61F	NVDLC03DoctorMobius30	CREA	 	Doctor Mobius
+0100D620	NVDLC03DoctorMobius40	CREA	 	Doctor Mobius
+0100D621	NVDLC03DoctorMobius50	CREA	 	Doctor Mobius
+0100D623	NVDLC03DoctorKlein10	CREA	 	Doctor Klein
+0100D624	NVDLC03DoctorKlein20	CREA	 	Doctor Klein
+0100D625	NVDLC03DoctorKlein30	CREA	 	Doctor Klein
+0100D626	NVDLC03DoctorKlein40	CREA	 	Doctor Klein
+0100D627	NVDLC03DoctorKlein50	CREA	 	Doctor Klein
+0100D686	NVDLC03RoboScorpionBurstAttack	SPEL	 	RoboScorpion Burst Attack
+0100D688	NVDLC03RoboScorpionBurstMagicEffect	MGEF	 	RoboScorpion Burst Magic Effect
+0100D6CE	NVDLC03ThinkTankPacifyTrigger	ACTI	 	Think Tank Pacification Trigger
+0100D6D1	NVDLC03ThinkTankDoor	DOOR	 	Elevator
+0100D6D4	NVDLC03X13RepconHQ03	CELL	 	X-13 Stealth Testing Lab
+0100D8AA	NVDLC03FollowersDoctorDead	NPC_	 	Followers Doctor
+0100D95B	NVDLC03SecuritronDead	CREA	 	Securitron Mk I
+0100D9E0	NVDLC03AuralStealthSuitNPCCell	CELL	 	Voice NPC for Stealth Suit Mk II
+0100DA21	NVDLC03StealthSuitStimpak	SPEL	 	Stimpak Auto-Injector
+0100DA22	NVDLC03StealthSuitVoiceCr	CREA	 	Stealth Suit Mk II
+0100DA28	NVDLC03DNAvengerPerk	PERK	 	DNAvenger
+0100DA29	NVDLC03ChallengeCazaDeathDealer01	CHAL	 	Caza-Death Dealer I
+0100DA2A	NVDLC03ChallengeCazaDeathDealer02	CHAL	 	Caza-Death Dealer II
+0100DA2B	NVDLC03ChallengeCazaDeathDealer03	CHAL	 	Caza-Death Dealer III
+0100DA2E	NVDLC03NighstalkerCraftingContainer	CONT	 	Nightstalker Samples
+0100DA2F	NVDLC03SLArtilleryLaunchINT	CELL	 	Artillery Command Center
+0100DBA4	NVDLC03X13FieldGunNote	NOTE	 	Sonic Emitter Notice
+0100DBB6	NVDLC03GhostHoodlessHead	ARMO	 	Hazmat Darklight Cowl
+0100DBB7	NVDLC03GhostHoodlessbody	ARMO	 	Hazmat Suit
+0100DC31	NVDLC03SLLittleYangtzeTowerINT	CELL	 	Little Yangtze Watchtower
+0100DD30	NVDLC03MetalBoxThinkTank	CONT	 	Metal Box
+0100DD32	NVDLC03FootlockerThinkTank	CONT	 	Footlocker
+0100DD48	NVDLC03X8SchoolRecord	NOTE	 	Betsy Bright's Disciplinary Record
+0100DD49	NVDLC03X8SchoolGrades	NOTE	 	Midterm Grade Report: Richie Marcus
+0100DD4A	NVDLC03X8SchoolSchedule	NOTE	 	Cherie O' Bannon's After-School Schedule
+0100DD5C	NVDLC03X8Setup	QUST	 	X-8 Data Retrieval Test
+0100DF83	NVDLC03LaserStingerSmallProjectile	PROJ	 	NVDLC03LaserStingerSmall
+0100DF84	NVDLC03LaserStingerSmall	WEAP	 	LaserStingerSmall
+00129E5B	Vault34a	CELL	 	Vault 34 - 1st Floor
+0100E0B7	NVDLC03scientistscrubblue	ARMO	 	Scientist Scrubs
+0100E0B9	NVDLC03scientistscrubgreen	ARMO	 	Dr. Klein's Scrubs
+0100E0BA	NVDLC03scientistscrubred	ARMO	 	Dr. Mobius' Scrubs
+0100E0BF	NVDLC03scientistscrubwhite	ARMO	 	Mad Scientist Scrubs
+0100E0DA	NVDLC03X8TurretKillVolume	ACTI	 	Turret Kill Volume
+0100E0DC	NVDLC03X8SchoolTerminal02	TERM	 	X-8 Institutional Test Terminal
+0100E0DD	NVDLC03X8SchoolTerminal03	TERM	 	X-8 Institutional Test Terminal
+0100E0DE	NVDLC03X8SchoolTerminal01	TERM	 	X-8 Institutional Test Terminal
+0100E173	NVDLC03X8SplicingRules	NOTE	 	Bio-Mechanical Splicing Rules
+0100E1B0	NVDLC03WeapTeleporter	WEAP	 	Big Mountain Transportalponder!
+0100E1B8	NVDLC03WeapSonicGunOperaSinger	WEAP	 	Sonic Emitter - Opera Singer
+0100E23B	NVDLC03GiantRoboScorpionDeathSpell	SPEL	 	Giant RoboScorpion Death Spell
+0100E23C	NVDLC03GiantRoboScorpionDeathMagicEffect	MGEF	 	Giant RoboScorpion Death Magic Effect
+0100E23F	NVDLC03X8TunnelTerminal	TERM	 	X-8 Observatory Terminal
+0100E240	NVDLC03X8InternalMemo01	NOTE	 	X-8 Institutional Data Retrieval Test
+0100E241	NVDLC03X8InternalMemo02	NOTE	 	Residential Cyberdog Test Off-Limits!
+0100E242	NVDLC03X8ShippingMemo1	NOTE	 	Please Advise
+0100E243	NVDLC03X8SubjectInfo	NOTE	 	X-8 Test Subject Information
+0100E244	NVDLC03X8ShippingMemo2	NOTE	 	Re: Please Advise
+0100E245	NVDLC03X8ShippingMemo3	NOTE	 	Shipping Department in Lockdown
+0100E246	NVDLC03X8FieldGunNote	NOTE	 	Field Gun Prototype on Loan
+0100E30E	NVDLC03SinkVendorContainer	CONT	 	Sink Vendor Container
+0100E313	NVDLC03SinkUpgradeRefrigerator	MISC	 	Upgrade - Refrigerator
+0100E314	NVDLC03SinkUpgradeAutoDocBarber	MISC	 	Upgrade - Auto-Doc Barber Module
+0100E35F	NVDLC03X13NoSuitMsg	MESG	 	X-13 VR Program Warning
+0100E36E	NVDLC03X13ElevatorDoorTerminal	TERM	 	Security Terminal
+0100E37E	NVDLC03WeapSonicGunGabrielsBark	WEAP	 	Sonic Emitter - Gabriel's Bark
+0100E381	NVDLC03WeapSonicGunRevelation	WEAP	 	Sonic Emitter - Revelation
+0100E386	NVDLC03WeapSonicGunRoboScorpion	WEAP	 	Sonic Emitter - Robo-Scorpion
+0100E389	NVDLC03WeapSonicGunTarantula	WEAP	 	Sonic Emitter - Tarantula
+0100E38B	NVDLC03SinkUpgradeAutoDocCosmetic	MISC	 	Upgrade - Auto-Doc Cosmetic Surgery Module
+0100E38D	NVDLC03ReloadingPack	MISC	 	Primer and Powder Pack
+0100E39E	NVDLC03WeapCyberdogGun	WEAP	 	K9000 Cyberdog Gun
+0100E558	NVDLC03RoboScorpionFaction	FACT	 	RoboScorpion Faction
+0100E559	NVDLC03RoboScorpionSmallMelee	CREA	 	Robo-Scorpion Mk1
+0100E55A	NVDLC03RoboScorpionSmallRanged	CREA	 	Robo-Scorpion Mk1
+0100E55B	NVDLC03RoboScorpionSmallSuicide	CREA	 	Robo-Scorpion Mk1
+0100E568	NVDLC03CrRoboScorpionSuicide50	CREA	 	Robo-Scorpion Bomber Mk6
+0100E569	NVDLC03CrRoboScorpionSuicide40	CREA	 	Robo-Scorpion Bomber Mk5
+0100E56A	NVDLC03CrRoboScorpionSuicide30	CREA	 	Robo-Scorpion Bomber Mk4
+0100E56B	NVDLC03CrRoboScorpionSuicide20	CREA	 	Robo-Scorpion Bomber Mk3
+0100E56C	NVDLC03CrRoboScorpionSuicide10	CREA	 	Robo-Scorpion Bomber Mk2
+0100E56D	NVDLC03CrRoboScorpionSuicide01	CREA	 	Robo-Scorpion Bomber Mk1
+0100E56E	NVDLC03CrRoboScorpionRanged50	CREA	 	Robo-Scorpion Blaster Mk6
+0100E56F	NVDLC03CrRoboScorpionRanged40	CREA	 	Robo-Scorpion Blaster Mk5
+0100E570	NVDLC03CrRoboScorpionRanged30	CREA	 	Robo-Scorpion Blaster Mk4
+0100E571	NVDLC03CrRoboScorpionRanged20	CREA	 	Robo-Scorpion Blaster Mk3
+0100E572	NVDLC03CrRoboScorpionRanged10	CREA	 	Robo-Scorpion Blaster Mk2
+0100E573	NVDLC03CrRoboScorpionRanged01	CREA	 	Robo-Scorpion Blaster Mk1
+0100E574	NVDLC03CrRoboScorpionMelee50	CREA	 	Robo-Scorpion Pincer Mk6
+0100E575	NVDLC03CrRoboScorpionMelee40	CREA	 	Robo-Scorpion Pincer Mk5
+0100E576	NVDLC03CrRoboScorpionMelee30	CREA	 	Robo-Scorpion Pincer Mk4
+0100E577	NVDLC03CrRoboScorpionMelee20	CREA	 	Robo-Scorpion Pincer Mk3
+0100E578	NVDLC03CrRoboScorpionMelee10	CREA	 	Robo-Scorpion Pincer Mk2
+0100E579	NVDLC03CrRoboScorpionMelee01	CREA	 	Robo-Scorpion Pincer Mk1
+0100E57A	NVDLC03X8GraveRobbers	NOTE	 	Project: Burke and Project: Hare - PLEASE READ
+0100E5C1	NVDLC03MineMeat	PROJ	 	Meat
+0100E5C3	NVDLC03WeapMeatMine	WEAP	 	Meat
+0100E5C5	NVDLC03X8KennelKey	KEYM	 	X-8 Kennel Key
+0100E5CA	NVDLC03X8CountdownNPC	NPC_	 	Countdown
+0100E5CC	NVDLC03X8Intercom	TACT	 	Intercom
+0100E5D1	NVDLC03Dialogue8	QUST	 	Dialogue Dr. 8
+0100E5D2	NVDLC03Dialogue0	QUST	 	Dialogue Dr. O
+0100E5D3	NVDLC03DialogueBorous	QUST	 	Dialogue Dr. Borous
+0100E5D8	NVDLC03DoctorDala01	CREA	 	Doctor Dala
+0100E5D9	NVDLC03DoctorDala10	CREA	 	Doctor Dala
+0100E5DA	NVDLC03DoctorDala20	CREA	 	Doctor Dala
+0100E5DB	NVDLC03DoctorDala30	CREA	 	Doctor Dala
+0100E5DC	NVDLC03DoctorDala40	CREA	 	Doctor Dala
+0100E5DD	NVDLC03DoctorDala50	CREA	 	Doctor Dala
+0100E5DE	NVDLC03DoctorO01	CREA	 	Doctor O
+0100E5DF	NVDLC03DoctorO10	CREA	 	Doctor O
+0100E5E0	NVDLC03DoctorO20	CREA	 	Doctor O
+0100E5E1	NVDLC03DoctorO30	CREA	 	Doctor O
+0100E5E2	NVDLC03DoctorO40	CREA	 	Doctor O
+0100E5E3	NVDLC03DoctorO50	CREA	 	Doctor O
+0100E616	NVDLC03X42Turret	CREA	 	X-42 Security Turret
+0100E641	NVDLC03X42TurretTerminal	TERM	 	Turret Control System
+0100E643	NVDLC03X42TurretFaction	FACT	 	Forbidden Zone Turret Faction
+0100E689	NVDLC03LobotomiteJumpsuit	ARMO	 	Lobotomite Jumpsuit
+0100E68A	NVDLC03LobotomiteMask	ARMO	 	Lobotomite Mask
+0100E68B	NVDLC03LobotomiteMask2	ARMO	 	Lobotomite Mask and Goggles
+0100E68C	NVDLC03SkeletonHead	ARMO	 	SkeletonHead
+0100E6F2	NVDLC03DialogueHQBuddies	QUST	 	Dialogue for HQ Buddies
+0100E6F9	NVDLC03Muggy	CREA	 	Muggy
+0100E6FA	NVDLC03SinkToasterofDoom	TACT	 	Toaster
+0100E6FC	NVDLC03SinkLightSwitch02	TACT	 	Light Switch 02
+0100E6FD	NVDLC03SinkLightSwitch01	TACT	 	Light Switch 01
+0100E6FF	NVDLC03SinkSink	TACT	 	Sink
+0100E700	NVDLC03SinkBookChute	TACT	 	Book Chute
+0100E701	NVDLC03SinkJukeBoxTA	TACT	 	Blind Diode Jefferson
+0100E702	NVDLC03SinkBioResearchStation	TACT	 	Biological Research Station
+0100E703	NVDLC03SinkMainComputer	TACT	 	Sink Central Intelligence Unit
+0100E704	NVDLC03SinkAutoDoc	TACT	 	Sink Auto-Doc
+0100E721	NVDLC03X13NoSuitTerminalMsg	NOTE	 	No Suit Detected!
+0100E845	NVDLC03AuralStealthSuitPerk	PERK	 	Stealth Suit Mk II
+0100E847	NVDLC03X13TestItemA	MISC	 	X-13 Document
+0100E848	NVDLC03X13TestSafe	CONT	 	Administrator's Wall Safe
+0100E84A	NVDLC03RoboScorpionGiant01	CREA	 	X-42 Giant Robo-Scorpion
+0100E84B	NVDLC03RoboScorpionGiant10	CREA	 	X-42 Giant Robo-Scorpion
+0100E84C	NVDLC03RoboScorpionGiant20	CREA	 	X-42 Giant Robo-Scorpion
+0100E84D	NVDLC03RoboScorpionGiant30	CREA	 	X-42 Giant Robo-Scorpion
+0100E84E	NVDLC03RoboScorpionGiant40	CREA	 	X-42 Giant Robo-Scorpion
+0100E84F	NVDLC03RoboScorpionGiant50	CREA	 	X-42 Giant Robo-Scorpion
+0100E85B	NVDLC03CyberdogPolice	CREA	 	CyberdogPolice
+0100E85C	NVDLC03CyberdogMilitary	CREA	 	CyberdogMilitary
+0100F02A	NVDLC03X42DroneNote01	NOTE	 	Giant Robo-Scorpion Test Log
+0100F02D	NVDLC03ForbiddenZoneDomeDoor	DOOR	 	Door
+0100F037	NVDLC03ForbiddenLockerEmpty	CONT	 	Locker
+0100F03A	NVDLC03ForbiddenLocker02	CONT	 	Locker
+0100F03B	NVDLC03ForbiddenLocker01	CONT	 	Locker
+0100F03D	NVDLC03X42DroneNote02	NOTE	 	Target Drone Effectiveness
+0100F059	NVDLC03SinkBioResearchLabTalker	NPC_	 	Bio Research Station Voice (NOT USED IN GAME)
+0100F05C	NVDLC03SinkSinkTalker	NPC_	 	Sink Voice (NOT USED IN GAME)
+0100F05F	NVDLC03SinkToasterTalker	NPC_	 	Toaster Voice (NOT USED IN GAME)
+0100F061	NVDLC03SinkMainComputerTalker	NPC_	 	Sink CIU
+0100F062	NVDLC03SinkLightSwitch01Talker	NPC_	 	Light Switch 01 Voice (NOT USED IN GAME)
+0100F063	NVDLC03SinkLightSwitch02Talker	NPC_	 	Light Switch 02 Voice (NOT USED IN GAME)
+0100F064	NVDLC03SinkJukeboxTalker	NPC_	 	Jukebox Voice (NOT USED IN GAME)
+0100F065	NVDLC03SinkBookChuteTalker	NPC_	 	Book Chute Voice (NOT USED IN GAME)
+0100F066	NVDLC03SinkAutoDocTalker	NPC_	 	Auto-Doc Voice (NOT USED IN GAME)
+0100F085	NVDLC03X8ScorpionTrigger	ACTI	 	X8 Scorpion Trigger
+0100F086	NVDLC03X8Terminal01Sub	TERM	 	X-8 Test Terminal
+0100F087	NVDLC03CrX8ProtectronTunnel	CREA	 	Protectron
+0100F088	NVDLC03CrProtectronLvlX8Tunnel	CREA	 	Protectron
+0100F421	NVDLC03X13InfiltrationExpNote	NOTE	 	Expert Infiltration
+0100F422	NVDLC03X13InfiltrationAdvNote	NOTE	 	Advanced Infiltration
+0100F423	NVDLC03X13RepconExitDoor	DOOR	 	Door
+0100F424	NVDLC03X13FloorSafe	CONT	 	Safe
+0100F425	NVDLC03X13RewardSafe	CONT	 	Reward Safe
+0100F428	NVDLC03ForbiddenTalkingActivator	TACT	 	Intercom
+0100F42A	VVCorpse08	NPC_	 	Wastelander1
+0100F441	NVDLC03X42DroneFaction	FACT	 	Forbidden Zone Drone Faction
+0100F444	NVDLC03X42DroneTerminal	TERM	 	Drone Control Terminal
+0100F447	NVDLC03X42PowerTerminal	TERM	 	Power Regulation Terminal
+0100F448	NVDLC03X42PowerTerminalSub	TERM	 	Terminal
+0100F44A	NVDLC03ForbiddenScorpionTrigger	ACTI	 	Forbidden Zone Scorpion Trigger
+0100F47C	NVDLC03DoctorBorous01	CREA	 	Doctor Borous
+0100F47D	NVDLC03DoctorBorous10	CREA	 	Doctor Borous
+0100F47E	NVDLC03DoctorBorous20	CREA	 	Doctor Borous
+0100F47F	NVDLC03DoctorBorous30	CREA	 	Doctor Borous
+0100F480	NVDLC03DoctorBorous40	CREA	 	Doctor Borous
+0100F481	NVDLC03DoctorBorous50	CREA	 	Doctor Borous
+0100F482	NVDLC03Doctor801	CREA	 	Doctor 8
+0100F483	NVDLC03Doctor810	CREA	 	Doctor 8
+0100F484	NVDLC03Doctor820	CREA	 	Doctor 8
+0100F485	NVDLC03Doctor830	CREA	 	Doctor 8
+0100F486	NVDLC03Doctor840	CREA	 	Doctor 8
+0100F487	NVDLC03Doctor850	CREA	 	Doctor 8
+0100F5CA	NVDLC03X13HatedFaction	FACT	 	X13 Enemies
+0100F621	NVDLC03DialogueDala	QUST	 	Dialogue Dr. Dala
+0100F7B1	NVDLC03RoboScorpionSmallSuicideTEST	CREA	 	Robo-Scorpion Mk1
+0100F7C2	NVDLC03LaserStingerExplosion	EXPL	 	Radiation Explosion
+0100F7F3	NVDLC03X13RobotComplianceReplayNote	NOTE	 	Robot Compliance
+0100F7F4	NVDLC03X13InfiltrationExpReplayNote	NOTE	 	Expert Infiltration
+0100F7F5	NVDLC03X13InfiltrationAdvReplayNote	NOTE	 	Advanced Infiltration
+0100F7F6	NVDLC03X13InfiltrationReplayNote	NOTE	 	Basic Infiltration
+0100F7F7	NVDLC03X13ProximityMine	ACTI	 	Proximity Detector
+0100F805	ARMASaturniteFist	ARMA	 	ARMASaturniteFist
+0100F806	NVDLC03WeapSaturniteFist	WEAP	 	Saturnite Fist
+0100F808	NVDLC03CrProtectron	CREA	 	Protectron
+0100F83C	NVDLC03WeapSaturniteFistHeat	WEAP	 	Saturnite Fist Super-Heated
+0100F83E	ARMASaturniteFistHeat	ARMA	 	ARMASaturniteHeat
+0100F868	NVDLC03X13MinePulseExplosion	EXPL	 	EMP Explosion
+0100F92B	NVDLC03SLConstructionMarker	MAPM	 	Construction Site
+0100F98E	NVDLC03RoboscorpionGiantDT30	SPEL	 	Giant Roboscorpion DT 30
+0100F993	NVDLC03X42ShutdownTerminal	TERM	 	Emergency Shutdown Terminal
+0100F996	NVDLC03X42ShutdownTerminalPassword	NOTE	 	Emergency Shutdown Terminal Password
+0100F9FB	NVDLC03X13AwardMsg	MESG	 	Test Completed!
+0100F9FC	NVDLC03X13MineEnchantment	ENCH	 	Mine Detection
+0100F9FE	NVDLC03X13MineBaseEffect	MGEF	 	Mine Base Effect
+0100FA4E	NVDLC03X8PlayerFriendFaction	FACT	 	X8 Player Friend Faction
+0100FA50	NVDLC03X8KennelUtlDoor01	DOOR	 	X-8 Kennel Door
+0100FA53	NVDLC03X8GabeExplosion	EXPL	 	X8 Gabe Explosion
+0100FD3C	NVDLC03WeapCyberdogGunFido	WEAP	 	FIDO
+0010BEEA	FreesideWorld	WRLD	 	Freeside
+010104D7	NVDLC03CrashedSatelliteOld	ACTI	 	Crashed Satellite
+010104DD	NVDLC03SonicBark	WEAP	 	SonicBark
+010104DE	NVDLC03CrCyberDog01TEST	CREA	 	Cyber Dog
+010104E0	NVDLC03PlayerSpine	MISC	 	Your Spine
+010104E1	NVDLC03PlayerHeart	MISC	 	Your Heart
+010104E2	NVDLC03PlayerBrain	MISC	 	Your Brain
+010104E4	NVDLC03FootlockerForbidden	CONT	 	Footlocker
+010105AE	NVDLC03X8MainUtlDoorBg01	DOOR	 	Door
+0010C482	LakeMeadCaveINT	CELL	 	Lake Mead Cave
+01010717	NVDLC03ThinkTankTalkingActivator	TACT	 	Doctor Mobius
+01010757	NVDLC03CrProtectronblue	CREA	 	ProtectronBlue
+01010915	NVDLC03X13Replay	QUST	 	Project X-13 Redux
+01010919	NVDLC03DuffleBagLOW	CONT	 	Duffle Bag
+0101091A	NVDLC03WoodenCrateLOW	CONT	 	Wooden Crate
+0101091B	NVDLC03OvenRangeDirtyLOW	CONT	 	Oven
+0101091C	NVDLC03CabinetHousehold	CONT	 	Cabinet
+0101091D	NVDLC03MetalBoxHouseholdLOW	CONT	 	Metal Box
+0101091E	NVDLC03DeskWoodenLOW	CONT	 	Desk
+0101091F	NVDLC03RefrigeratorWithFoodLOW	CONT	 	Refrigerator
+01010920	NVDLC03HotelWardrobeLOW	CONT	 	Wardrobe
+01010921	NVDLC03FootlockerHouseholdLOW	CONT	 	Footlocker
+01010922	NVDLC03SSVendingMachineLOW	CONT	 	Vending Machine
+01010C97	NVDLC03GraveContainerLOW	CONT	 	Grave
+01010D24	NVDLC03KleinTrunk	CONT	 	Trunk
+01010E4B	NVDLC03MobiusTrunk	CONT	 	Trunk
+01010E4D	NVDLC03ThinkTankTrunk	CONT	 	Trunk
+01011261	NVDLC03ElectricalBox01LOW	CONT	 	Electrical Box
+01011263	NVDLC03X8ShippingMemo4	NOTE	 	Shipping Department in Lockdown
+01011273	NVDLC03FakeForceBallNudge	EXPL	 	Large Explosion
+01011277	NVDLC03X13NightstalkerResearchNote	NOTE	 	Nightstalker DNA Manipulation
+01011278	NVDLC03scientistscrubblueDestroyed	ARMO	 	Ripped Scientist Scrubs
+0101127C	NVDLC03DummySneakSpeedEffect	MGEF	 	+20% Sneak Speed
+0101127D	NVDLC03ReduceEnergyWeaponsTouch	MGEF	 	Reduced Energy Weapons Touch
+01011281	NVDLC03ReduceMeleeWeaponsTouch	MGEF	 	Reduced Melee Weapons Touch
+010112B6	NVDLC03DomeSinkDoor	DOOR	 	Elevator
+010112B8	NVDLC03DomeIntDoor	DOOR	 	Elevator
+010112BA	NVDLC03WeapSniperRifleUniqueChristine	WEAP	 	Christine's COS Silencer Rifle
+010112CB	NVDLC03MetalBoxDriedSeedSamples01	CONT	 	Samples Box
+010112CC	NVDLC03MetalBoxDriedSeedSamples02	CONT	 	Samples Box
+010112CD	NVDLC03MetalBoxDriedSeedSamples03	CONT	 	Samples Box
+010112D6	NVDLC03HQBuddySamples	QUST	 	Field Research
+010112E3	NVDLC03HQBuddy	QUST	 	All My Friends Have Off Switches
+010112E5	NVDLC03HQBuddyUpgrade	QUST	 	Influencing People
+01011346	NVDLC03ElectricalBox01MED	CONT	 	Electrical Box
+01011381	NVDLC03ArtilleryLandingFootlocker	CONT	 	Footlocker
+01011382	NVDLC03GabesBowl	MISC	 	Gabe's Bowl
+0101143B	NVDLC03CrNightstalker10X13	CREA	 	Nightstalker
+0101143C	NVDLC03CrNightstalker01X13	CREA	 	Nightstalker
+0101143E	NVDLC03CrNightstalker50X13	CREA	 	Nightstalker
+0101143F	NVDLC03CrNightstalker40X13	CREA	 	Nightstalker
+01011440	NVDLC03CrNightstalker30X13	CREA	 	Nightstalker
+01011441	NVDLC03CrNightstalker20X13	CREA	 	Nightstalker
+000CD3CC	LootAmmoBoxEmpty	CONT	 	Ammunition Box
+010118B6	NVDLC03X8Intercom02	TACT	 	Intercom
+01011956	NVDLC03AchievementMakingFriends	CHAL	 	Making Friends
+01011965	NVDLC03TraumaHarnessNote2	NOTE	 	Y-17 Trauma Harness Action Items
+01011989	NVDLC03ChickenLegGore	MSTT	 	[QUOTE]Chicken[QUOTE] Leg
+0101199A	NVDLC03LobotomiteFace04	NPC_	 	Lobotomite
+0101199B	NVDLC03LobotomiteFace02	NPC_	 	Lobotomite
+0101199C	NVDLC03LobotomiteFace03	NPC_	 	Lobotomite
+0101199D	NVDLC03ArmorUniqueReconChristine	ARMO	 	Christine's COS Recon Armor
+0101199E	NVDLC03WeapTeslaCannonUniqueElijah	WEAP	 	Elijah's Jury-Rigged Tesla Cannon
+010119CB	NVDLC03CrTurretHardX13	CREA	 	Mark IV Turret
+010119D7	NVDLC03RoboscorpionGiantWeakenEffect	MGEF	 	Giant Roboscorpion DT Reduction
+010119D8	NVDLC03GnawedBones	MSTT	 	Gnawed Bones
+01011D8C	NVDLC03Satellite	ACTI	 	Crashed Satellite
+01011D8F	NVDLC03DriveInMovie	ACTI	 	DriveIn Movie
+01011DBF	NVDLC03HQBioResearchStationMSG	MESG	 	Biological Research Station
+01011E63	NVDLC03X13PlayerContainer	CONT	 	Player's Stuff Storage
+0014DE1D	WeapNVThrowingHatchet	WEAP	 	Throwing Hatchet
+01011F92	NVDLC03SonicGunGabrielsBarkNOTE	NOTE	 	Audio Sample - Gabriel's Bark
+01011F93	NVDLC03SonicGunOperaSingerNOTE	NOTE	 	Audio Sample - Opera Singer
+01011F94	NVDLC03SonicGunRoboScorpionNOTE	NOTE	 	Audio Sample - Mobius' Robo-Scorpion
+01011F95	NVDLC03SonicGunTarantulaNOTE	NOTE	 	Audio Sample - Giant Tarantula
+01011F96	NVDLC03HQBuddyBiologyNOTE	NOTE	 	Sink Project: Biological Research Station
+01011F97	NVDLC03HQBuddyAutoDocNOTE	NOTE	 	Sink Project: Auto-Doc
+01011F98	NVDLC03HQBuddyJukeboxNOTE	NOTE	 	Sink Project: Jukebox
+01011F99	NVDLC03HQBuddyBookChuteNOTE	NOTE	 	Sink Project: Book Chute
+01011F9C	NVDLC03HQBuddyToasterNOTE	NOTE	 	Sink Project: Toaster
+01011F9D	NVDLC03HQBuddySinkNOTE	NOTE	 	Sink Project: Sink
+01011F9E	NVDLC03HQBuddyLightSwitch01NOTE	NOTE	 	Sink Project: Light Switch 01
+01011F9F	NVDLC03HQBuddyLightSwitch02NOTE	NOTE	 	Sink Project: Light Switch 02
+01011FA0	NVDLC03HQBuddyMuggyNOTE	NOTE	 	Sink Project: Muggy
+01011FA1	NVDLC03HQUpgradeAutoDocBarberNOTE	NOTE	 	Auto-Doc Upgrade: Hair Styling Enhancements
+01011FA2	NVDLC03HQUpgradeAutoDocC13NOTE	NOTE	 	Auto-Doc Upgrade: Implant C-13
+01011FA3	NVDLC03HQUpgradeAutoDocM5NOTE	NOTE	 	Auto-Doc Upgrade: Implant M-5
+01011FA4	NVDLC03HQUpgradeAutoDocY3NOTE	NOTE	 	Auto-Doc Upgrade: Implant Y-3
+01011FA5	NVDLC03HQUpgradeAutoDocY7NOTE	NOTE	 	Auto-Doc Upgrade: Implant Y-7
+01011FA9	NVDLC03HQUpgradeBookChuteMulchingNOTE	NOTE	 	Book Chute Upgrade: Mulching
+01011FAA	NVDLC03HQUpgradeSinkWaterNOTE	NOTE	 	Sink Upgrade: Water Production
+01011FAF	NVDLC03HQUpgradeLight01SmartNOTE	NOTE	 	Light Switch 01 Upgrade: [QUOTE]Smart Lights[QUOTE]
+01011FB1	NVDLC03HQUpgradeMuggyPartsProductionNOTE	NOTE	 	[QUOTE]Muggy[QUOTE] Upgrade: Parts Production
+01011FB2	NVDLC03DriedWhiteHorsenettleMISC	MISC	 	Dried White Horsenettle
+01011FB3	NVDLC03RecipeSkillBookBarterNOTE	NOTE	 	Recipes - Barter Skill Book
+01011FB4	NVDLC03DriedNevadaAgaveMISC	MISC	 	Dried Nevada Agave Fruit
+01011FB5	NVDLC03DriedBarrelCactusMISC	MISC	 	Dried Barrel Cactus Fruit
+01011FB6	NVDLC03DriedPintoBeanPodMISC	MISC	 	Dried Pinto Bean Pod
+01011FB7	NVDLC03DriedBananaYuccaMISC	MISC	 	Dried Banana Yucca Fruit
+01011FB8	NVDLC03DriedBrocFlowerMISC	MISC	 	Dried Broc Flower
+01011FB9	NVDLC03DriedPricklyPearMISC	MISC	 	Dried Prickly Pear Fruit
+01011FBA	NVDLC03DriedXanderRootMISC	MISC	 	Dried Xander Root
+01011FBB	NVDLC03DriedHoneyMesquiteMISC	MISC	 	Dried Honey Mesquite Pod
+01011FBC	NVDLC03DriedJalapenoMISC	MISC	 	Dried Jalapeño Pepper
+01011FBD	NVDLC03DriedMaizeMISC	MISC	 	Dried Maize
+01011FBE	NVDLC03RecipeSkillBookEnergyWeapNOTE	NOTE	 	Recipes - Energy Weapons Skill Book
+01011FBF	NVDLC03RecipeSkillBookExplosivesNOTE	NOTE	 	Recipes - Explosives Skill Book
+01011FC0	NVDLC03RecipeSkillBookGunsNOTE	NOTE	 	Recipes - Guns Skill Book
+01011FC1	NVDLC03RecipeSkillBookLockpickingNOTE	NOTE	 	Recipes - Lockpick Skill Book
+01011FC2	NVDLC03RecipeSkillBookMedicineNOTE	NOTE	 	Recipes - Medicine Skill Book
+01011FC3	NVDLC03RecipeSkillBookMeleeWeapNOTE	NOTE	 	Recipes - Melee Weapons Skill Book
+01011FC4	NVDLC03RecipeSkillBookRepairNOTE	NOTE	 	Recipes - Repair Skill Book
+01011FC5	NVDLC03RecipeSkillBookScienceNOTE	NOTE	 	Recipes - Science Skill Book
+01011FC6	NVDLC03RecipeSkillBookSneakNOTE	NOTE	 	Recipes - Sneak Skill Book
+01011FC7	NVDLC03RecipeSkillBookSpeechNOTE	NOTE	 	Recipes - Speech Skill Book
+01011FC8	NVDLC03RecipeSkillBookSurvivalNOTE	NOTE	 	Recipes - Survival Skill Book
+01011FC9	NVDLC03RecipeSkillBookUnarmedNOTE	NOTE	 	Recipes - Unarmed Skill Book
+01011FCA	NVDLC03BlankBookMISC	MISC	 	Blank Book
+01011FCB	NVDLC03RecipeSkillBookBarter	RCPE	 	Skill Book: Barter
+01011FCC	NVDLC03RecipeSkillBookEnergyWeap	RCPE	 	Skill Book: Energy Weapons
+01011FCD	NVDLC03RecipeSkillBookExplosives	RCPE	 	Skill Book: Explosives
+01011FCE	NVDLC03RecipeSkillBookGuns	RCPE	 	Skill Book: Guns
+01011FCF	NVDLC03RecipeSkillBookLockpicking	RCPE	 	Skill Book: Lockpick
+01011FD0	NVDLC03RecipeSkillBookMedicine	RCPE	 	Skill Book: Medicine
+01011FD1	NVDLC03RecipeSkillBookMeleeWeap	RCPE	 	Skill Book: Melee Weapons
+01011FD2	NVDLC03RecipeSkillBookRepair	RCPE	 	Skill Book: Repair
+01011FD3	NVDLC03RecipeSkillBookScience	RCPE	 	Skill Book: Science
+01011FD4	NVDLC03RecipeSkillBookSneak	RCPE	 	Skill Book: Sneak
+01011FD5	NVDLC03RecipeSkillBookSpeech	RCPE	 	Skill Book: Speech
+01011FD6	NVDLC03RecipeSkillBookSurvival	RCPE	 	Skill Book: Survival
+01011FD7	NVDLC03RecipeSkillBookUnarmedWeap	RCPE	 	Skill Book: Unarmed
+01011FDA	NVDLC03CrCyberDogPolice01	CREA	 	Police Cyber Dog
+01011FDB	NVDLC03CrCyberDogPolice10	CREA	 	Police Cyber Dog
+01011FDC	NVDLC03CrCyberDogPolice20	CREA	 	Police Cyber Dog
+01011FDD	NVDLC03CrCyberDogPolice30	CREA	 	Police Cyber Dog
+01011FDE	NVDLC03CrCyberDogPolice40	CREA	 	Police Cyber Dog
+01011FDF	NVDLC03CrCyberDogPolice50	CREA	 	Police Cyber Dog
+01011FE2	NVDLC03CrProtectronCS01Respawn	CREA	 	Construction Drone
+01011FE3	NVDLC03CrProtectronCS10Respawn	CREA	 	Construction Drone
+01011FE4	NVDLC03CrProtectronCS20Respawn	CREA	 	Construction Drone
+01011FE5	NVDLC03CrProtectronCS30Respawn	CREA	 	Construction Drone
+01011FE6	NVDLC03CrProtectronCS40Respawn	CREA	 	Construction Drone
+01011FE7	NVDLC03CrProtectronCS50Respawn	CREA	 	Construction Drone
+01012019	NVDLC03HologramClass	CLAS	 	Hologram
+0101201A	NVDLC03HologramFaction	FACT	 	Hologram Generic Faction
+0101201B	NVDLC03HologramFriendFaction	FACT	 	Hologram Friend Faction
+0101201C	NVDLC03HologramSecurityFaction	FACT	 	Hologram Security Faction
+0101201D	NVDLC03HologramFadeOutEffect	MGEF	 	Hologram Fade Out
+0101201E	NVDLC03HologramFlickerEffect	MGEF	 	Hologram Flickering
+0101201F	NVDLC03HologramWarningEffect	MGEF	 	Hologram Warning
+01012020	NVDLC03HologramBaseEffect	MGEF	 	Hologram Image
+01012021	NVDLC03HologramBaseEffect2	MGEF	 	Hologram Image 2
+01012022	NVDLC03HologramFadeInEffect	MGEF	 	Hologram Fade In
+01012029	NVDLC03HologramSuitNeutralEffect	ENCH	 	Hologram Suit-ness
+0101202A	NVDLC03HologramRegen	SPEL	 	Hologram Regeneration
+0101202B	NVDLC03HologramFlickerInSpell	SPEL	 	Hologram Flicker In
+0101202C	NVDLC03HologramFlickerOutSpell	SPEL	 	Hologram Flicker Out
+0101202D	NVDLC03HologramFlickerSpell	SPEL	 	Hologram Flicker
+0101202E	NVDLC03HoloFireImmunity	SPEL	 	Immune to Fire
+0101202F	NVDLC03HologramNeutralSpell	SPEL	 	Hologram Neutral
+01012030	NVDLC03HologramNeutralSpell2	SPEL	 	Hologram Neutral 2
+01012031	nvdlc03hologramoutfit	ARMO	 	hologramoutfit
+01012032	NVDLC03HologramBeam	WEAP	 	Hologram Beam
+01012033	AmmoNVDLC03SmallEnergyCellHologram	AMMO	 	Energy Cell
+01012034	NVDLC03HologramFriendTemplate	NPC_	 	Hologram
+01012035	TestQAMap	CELL	 	Test Cell For QA Test
+0101207F	NVDLC03HoloSupport	QUST	 	Scripting Support for Hologram Features
+0101208F	NVDLC03ChemistrySet	ACTI	 	Deluxe Chemistry Set
+01012109	NVdlc03ProtonaxeProjectile	PROJ	 	Proton Axe Projectile
+0101210A	NVdlc03ProtonInversalaxeProjectile	PROJ	 	Inversal Axe Projectile
+0101213D	NVDLC03CaveFungusACTIVATOR	ACTI	 	Mutant Cave Fungus
+0101213E	NVDLC03CaveFungusINGESTIBLE	ALCH	 	Mutant Cave Fungus
+010121E3	NVDLC03ThinkTankQuest	QUST	 	Picking Your Brains
+0101229F	NVDLC03LobotomiteFaction	FACT	 	Lobotomite Faction
+010122A0	NVDLC03CorpseFaction	FACT	 	Corpse Suit Faction
+010122E7	NVDLC03HQUpgradeLight02MoodNOTE	NOTE	 	Light Switch 02 Upgrade: [QUOTE]Mood Lights[QUOTE]
+01012304	NVDLC03SinkToolCabinetWorkBench	CONT	 	Storage Cabinet
+010124A7	NVDLC03X8DataRetrievalExpNote	NOTE	 	Data Retrieval
+010124A8	NVDLC03X8DataRetrievalAdvanceExpNote	NOTE	 	Data Retrieval
+010124A9	NVDLC03x8GuardTestExpNote	NOTE	 	Residential Cyberdog Guard Test
+010124AA	NVDLC03X8Replay	QUST	 	X-8 Data Retrieval Test Replay
+01012767	NVDLC03TraitEarlyBird	PERK	 	Early Bird
+01012768	NVDLC03TraitEarlyBirdAmAE	SPEL	 	Early Bird Bonus
+01012769	NVDLC03TraitEarlyBirdPmAE	SPEL	 	Early Bird Penalty
+0101276A	NVDLC03TraitHotBloodedAE	SPEL	 	Hot Blooded Penalty
+0101276B	NVDLC03TraitHotBlooded	PERK	 	Hot Blooded
+0101276C	NVDLC03TraitHoarderAE	SPEL	 	Hoarder Penalty
+0101276D	NVDLC03TraitHoarder	PERK	 	Hoarder
+0101276E	NVDLC03TraitLogansLoophole	PERK	 	Logan's Loophole
+01012946	NVDLC03CrMisterOrderly01Respawn	CREA	 	Mister Orderly Mk1
+01012947	NVDLC03CrMisterOrderly10Respawn	CREA	 	Mister Orderly Mk2
+0101294A	NVDLC03CrMisterOrderly20Respawn	CREA	 	Mister Orderly Mk3
+0101294B	NVDLC03CrMisterOrderly30Respawn	CREA	 	Mister Orderly Mk4
+0101294C	NVDLC03CrMisterOrderly40Respawn	CREA	 	Mister Orderly Mk5
+0101294D	NVDLC03CrMisterOrderly50Respawn	CREA	 	Mister Orderly Mk6
+01012A0B	NVDLC03X8Experiment02Note	NOTE	 	Dog and Lobotomite Splicing Experiment Holotape
+01012A0C	NVDLC03X8Experiment03Note	NOTE	 	Robot and Nightstalker Splicing Experiment Holotape
+01012A0D	NVDLC03X8Experiment01Note	NOTE	 	Dog and Robot Splicing Experiment Holotape
+01012A1E	NVDLC03CrSporeCarrier01Respawn	CREA	 	Spore Carrier Runt
+01012A1F	NVDLC03CrSporeCarrier10Respawn	CREA	 	Spore Carrier
+01012A20	NVDLC03CrSporeCarrier20Respawn	CREA	 	Spore Carrier Brute
+01012A21	NVDLC03CrSporeCarrier30Respawn	CREA	 	Spore Carrier Savage
+01012A22	NVDLC03CrSporeCarrier40Respawn	CREA	 	Spore Carrier Scavenger
+01012A23	NVDLC03CrSporeCarrier50Respawn	CREA	 	Spore Carrier Alpha
+01012B86	NVDLC03TraitSkilled	PERK	 	Skilled
+01012B98	NVDLC03X13SubjectObservations1bNote	NOTE	 	Test Subject Observations
+01012B99	NVDLC03X13K9ModNote	NOTE	 	Independent Research
+01012B9A	NVDLC03X13SubjectObservations2bNote	NOTE	 	RE: RE: RE: Test Subject Observations
+01012B9B	NVDLC03X13SubjectObservations2Note	NOTE	 	Test Subject Observations
+01012B9C	NVDLC03X13SubjectObservations1Note	NOTE	 	Test Subject Observations
+01012B9D	NVDLC03X13SuggestionNote	NOTE	 	Suggestion.
+01012B9E	NVDLC03X13SecurityLockDownNote	NOTE	 	X-13 Shipment Notice
+01012B9F	NVDLC03X13SecurityLockDownReplyNote	NOTE	 	RE: X-13 Shipment Notice
+01012BA0	NVDLC03X13ReslaRoilNote	NOTE	 	Check out this mod I've been working on!
+01012BA1	NVDLC03X13GetOffYourButtNote	NOTE	 	Get off your butt, Butz!
+01012BA2	NVDLC03X13WTHNote	NOTE	 	What the hell...?!
+01012BA3	NVDLC03X13SuitTorsoNote	NOTE	 	Mk II Torso Research
+01012BA4	NVDLC03X13SuitArmsNote	NOTE	 	Mk II Glove Research
+01012BA5	NVDLC03X13SuitBootsNote	NOTE	 	Mk II Boot Research
+01012BA6	NVDLC03X13VentStash	CONT	 	Vent
+01012BA7	NVDLC03X13VentStashEmpty	CONT	 	Vent
+01012BA8	NVDLC03X13ToolboxSnacks	CONT	 	Greasy Toolbox
+01012BA9	NVDLC03X13RepconTerminalC	TERM	 	Technician Terminal
+01012BAA	NVDLC03X13RepconTerminalB	TERM	 	Terminal
+01012BAB	NVDLC03X13RepconTerminal	TERM	 	Terminal
+01012BAC	NVDLC03X13LabTerminal	TERM	 	Terminal
+01012BAD	NVDLC03X13SuitChestTerminal	TERM	 	Research Terminal
+01012BAE	NVDLC03X13SuitBootsTerminal	TERM	 	Research Terminal
+01012BAF	NVDLC03X13SuitArmsTerminal	TERM	 	Research Terminal
+01012BB0	NVDLC03X13TestObservationTerminalA	TERM	 	Test Recording Terminal
+01012BB1	NVDLC03X13FieldGunTerminal	TERM	 	Security Terminal
+01012BB2	NVDLC03LootLockerX13Weapons	CONT	 	Gun Locker
+01012C75	NVDLC03X13RoboScorpFaction	FACT	 	X-13 Robo-Scorpions
+01012C78	NVDLC03X13TestObservationsNote	NOTE	 	Independent Research
+01012C79	NVDLC03X13RepconTerminalD	TERM	 	Technician Terminal
+01012C92	NVDLC03HQBookChuteNoItemsMSG	MESG	 	Process Materials?
+01012D1B	NVDLC03WeapLaserRifleNoDrop	WEAP	 	Laser Rifle
+01012D38	NVDLC03HQBuddySeedBox01	ACTI	 	Seed Package
+01012D3A	NVDLC03HQBuddySeedBox02	ACTI	 	Seed Package
+01012D3B	NVDLC03HQBuddySeedBox03	ACTI	 	Seed Package
+01012D58	NVDLC03BrainTankOpenTrigger	ACTI	 	Brain Tank Open Trigger
+01012EAE	NVDLC03TraitClaustrophobiaBonusAE	SPEL	 	Claustrophobia Bonus
+01012EAF	NVDLC03TraitClaustrophobiaPenaltyAE	SPEL	 	Claustrophobia Penalty
+01012EB9	NVDLC03EnchCOSReconArmor	ENCH	 	COS Recon Armor
+01012EBC	NVDLC03TraitSkilledBE	MGEF	 	Trait Skilled BE
+01012F06	NVDLC03FakeProtonicInversalAxe	ACTI	 	Protonic Inversal Axe
+01012F0B	NVDLC03FakeInversalAxeThrown	ACTI	 	Inversal Axe Thrown
+01012F0C	NVDLC03FakeSaturnitePowerFist	ACTI	 	Saturnite Power Fist
+01012F0D	NVDLC03FakeChristineRifle	ACTI	 	Christine's COS Silencer Rifle
+01012F1D	NVDLC03FakeElijahLAER	ACTI	 	Elijah's Advanced LAER
+01012F1E	NVDLC03FakeElijahTeslaCannon	ACTI	 	Elijah's Jury-Rigged Tesla Cannon
+01012F1F	NVDLC03FakeLAER	ACTI	 	LAER
+01012F20	NVDLC03FakeSterilizerGlove	ACTI	 	Sterilizer Glove
+01012F21	NVDLC03FakeKleinGlove	ACTI	 	Dr. Klein's Glove
+01012F29	NVDLC03FakeMobiusGlove	ACTI	 	Dr. Mobius' Glove
+01012F4E	NVDLC03Lobotomite02Avg	NPC_	 	Lobotomite
+01012F8E	NVDLC03Lobotomite03Avg	NPC_	 	Lobotomite
+01012F8F	NVDLC03Lobotomite04Avg	NPC_	 	Lobotomite
+01012FAB	NVDLC03Lobotomite02AvgRespawn	NPC_	 	Lobotomite
+01012FAC	NVDLC03Lobotomite03AvgRespawn	NPC_	 	Lobotomite
+01012FAD	NVDLC03Lobotomite04AvgRespawn	NPC_	 	Lobotomite
+01012FAE	NVDLC03Lobotomite02EasyRespawn	NPC_	 	Lobotomite
+01012FB7	NVDLC03Lobotomite02HardRespawn	NPC_	 	Lobotomite
+01012FB8	NVDLC03Lobotomite03EasyRespawn	NPC_	 	Lobotomite
+01012FB9	NVDLC03Lobotomite03HardRespawn	NPC_	 	Lobotomite
+01012FBA	NVDLC03Lobotomite04EasyRespawn	NPC_	 	Lobotomite
+01012FBB	NVDLC03Lobotomite04HardRespawn	NPC_	 	Lobotomite
+01012FBC	NVDLC03Lobotomite02Easy	NPC_	 	Lobotomite
+01012FBD	NVDLC03Lobotomite03Easy	NPC_	 	Lobotomite
+01012FBE	NVDLC03Lobotomite04Easy	NPC_	 	Lobotomite
+01012FBF	NVDLC03Lobotomite02Hard	NPC_	 	Lobotomite
+01012FC0	NVDLC03Lobotomite03Hard	NPC_	 	Lobotomite
+01012FC1	NVDLC03Lobotomite04Hard	NPC_	 	Lobotomite
+01012FC2	NVDLC03Lobotomite01AvgF	NPC_	 	Lobotomite
+01012FC3	NVDLC03Lobotomite01AvgRespawnF	NPC_	 	Lobotomite
+01012FCA	NVDLC03Lobotomite01EasyF	NPC_	 	Lobotomite
+01012FCD	NVDLC03Lobotomite01EasyRespawnF	NPC_	 	Lobotomite
+01012FCF	NVDLC03Lobotomite01HardF	NPC_	 	Lobotomite
+01012FD6	NVDLC03Lobotomite01HardRespawnF	NPC_	 	Lobotomite
+01012FD7	NVDLC03Lobotomite02AvgF	NPC_	 	Lobotomite
+01012FD8	NVDLC03Lobotomite02AvgRespawnF	NPC_	 	Lobotomite
+01012FF9	NVDLC03Lobotomite02EasyF	NPC_	 	Lobotomite
+01012FFA	NVDLC03Lobotomite02EasyRespawnF	NPC_	 	Lobotomite
+01012FFD	NVDLC03Lobotomite02HardF	NPC_	 	Lobotomite
+01013015	NVDLC03Lobotomite02HardRespawnF	NPC_	 	Lobotomite
+01013016	NVDLC03LobotomiteFace02F	NPC_	 	Lobotomite
+01013017	NVDLC03LobotomiteFace03F	NPC_	 	Lobotomite
+0101301B	NVDLC03LobotomiteFace04F	NPC_	 	Lobotomite
+0101301D	NVDLC03Lobotomite03AvgF	NPC_	 	Lobotomite
+0101301E	NVDLC03Lobotomite03AvgRespawnF	NPC_	 	Lobotomite
+0101301F	NVDLC03Lobotomite03EasyF	NPC_	 	Lobotomite
+01013020	NVDLC03Lobotomite03EasyRespawnF	NPC_	 	Lobotomite
+01013021	NVDLC03Lobotomite03HardF	NPC_	 	Lobotomite
+01013024	NVDLC03Lobotomite03HardRespawnF	NPC_	 	Lobotomite
+01013025	NVDLC03Lobotomite04AvgF	NPC_	 	Lobotomite
+0101304B	NVDLC03Lobotomite04AvgRespawnF	NPC_	 	Lobotomite
+0101304C	NVDLC03Lobotomite04EasyF	NPC_	 	Lobotomite
+0101304D	NVDLC03Lobotomite04EasyRespawnF	NPC_	 	Lobotomite
+01013051	NVDLC03Lobotomite04HardF	NPC_	 	Lobotomite
+01013057	NVDLC03Lobotomite04HardRespawnF	NPC_	 	Lobotomite
+0101307E	NVDLC03CrashedSatelliteTrigger	ACTI	 	Satellite Trigger
+010130A0	NVDLC03DummyCriticalKnockbackBE	MGEF	 	Critical Strike Knockback
+010130A1	NVDLC03DummyCriticalDismemberBE	MGEF	 	Critical Kill Dismemberment
+010130A2	NVDLC03DummyCriticalParalysisNoTimeBE	MGEF	 	Critical Strike Paralysis
+010130A3	NVDLC03DummyCriticalExplosionBE	MGEF	 	Critical Strike Explosion
+010130A4	NVDLC03DummyCriticalIncendiaryBE	MGEF	 	Critical Strike Incendiary
+010130AB	NVDLC03DummyCriticalImmolationBE	MGEF	 	Critical Strike Immolation
+010130B9	NVDLC03EMPSonicEmitterGabriel	ENCH	 	Electromagnetic Pulse
+010130C2	NVDLC03EMPSonicEmitterOpera	ENCH	 	Electromagnetic Pulse
+010130C3	NVDLC03EMPSonicEmitterRevelation	ENCH	 	Electromagnetic Pulse
+010130C4	NVDLC03EMPSonicEmitterRoboScorpion	ENCH	 	Electromagnetic Pulse
+010130C5	NVDLC03EMPSonicEmitterTarantula	ENCH	 	Electromagnetic Pulse
+010130F3	NVDLC03SkeletonHeadHelm	ARMO	 	Skeleton Head Helm
+01013202	NVDLC03SkeletonAvg	NPC_	 	Y-17 Animatronic Lab Skeleton
+01013203	NVDLC03SkeletonEasy	NPC_	 	Y-17 Animatronic Lab Skeleton
+01013204	NVDLC03SkeletonHard	NPC_	 	Y-17 Animatronic Lab Skeleton
+010132A2	NVDLC03LootAmmoBoxSink	CONT	 	Ammunition Box
+010133A1	RaiseSkillBarter	MGEF	 	Raise Barter Permanent
+010133A2	NVDLC03TraitClaustrophobiaAE	SPEL	 	Claustrophobia Bonus/Penalty
+010133A3	RaiseSkillEnergyWeap	MGEF	 	Raise Energy Permanent
+010133A4	RaiseSkillExplosives	MGEF	 	Raise Explosives Permanent
+010133A5	RaiseSkillMedicine	MGEF	 	Raise Medicine Permanent
+010133A6	RaiseSkillMelee	MGEF	 	Raise Melee Permanent
+010133A7	RaiseSkillRepair	MGEF	 	Raise Repair Permanent
+010133A8	RaiseSkillScience	MGEF	 	Raise Science Permanent
+010133A9	RaiseSkillSneak	MGEF	 	Raise Sneak Permanent
+010133AA	RaiseSkillSpeech	MGEF	 	Raise Speech Permanent
+010133AB	RaiseSkillSurvival	MGEF	 	Raise Survival Permanent
+010133AC	RaiseSkillUnarmed	MGEF	 	Raise Unarmed Permanent
+010133AD	NVDLC03TraitSkilledAE	SPEL	 	Skilled Bonus (+5 to skills)
+010133AE	NVDLC03TraitClaustrophobia	PERK	 	Claustrophobia
+010133AF	NVDLC03HQAutodocImplantMSG	MESG	 	Implant Interface
+010133B1	NVDLC03SalientGreen	ALCH	 	Salient Green
+010133B2	NVDLC03RecipeBlackBloodSausage	RCPE	 	Black Blood Sausage
+010133B3	NVDLC03BlackBloodSausage	ALCH	 	Black Blood Sausage
+010133B4	NVDLC03RecipeClonedNevadaAgaveFruit	RCPE	 	Cloned Nevada Agave Fruit
+010133B5	NVDLC03RecipeThickRedPaste	RCPE	 	Thick Red Paste
+010133B6	NVDLC03ThickRedPaste	ALCH	 	Thick Red Paste
+010133B7	NVDLC03RecipeClonedBarrelCactusFruit	RCPE	 	Cloned Barrel Cactus Fruit
+010133B8	NVDLC03RecipeClonedPintoBeanPod	RCPE	 	Cloned Pinto Bean Pod
+010133B9	NVDLC03RecipeClonedBananaYucca	RCPE	 	Cloned Banana Yucca
+010133BA	NVDLC03RecipeClonedBrocFlower	RCPE	 	Cloned Broc Flower
+010133BB	NVDLC03RecipeClonedPricklyPearFruit	RCPE	 	Cloned Prickly Pear Fruit
+010133BC	NVDLC03RecipeClonedXanderRoot	RCPE	 	Cloned Xander Root
+010133BD	NVDLC03RecipeClonedHoneyMesquite	RCPE	 	Cloned Honey Mesquite
+010133BE	NVDLC03RecipeClonedJalapeno	RCPE	 	Cloned Jalapeño Pepper
+010133BF	NVDLC03RecipeClonedMaize	RCPE	 	Cloned Maize
+010133C0	NVDLC03RecipeClonedWhiteHorsenettle	RCPE	 	Cloned White Horsenettle
+01013463	NVDLC03HQLightSwitchesMSG	MESG	 	Light Switch
+01013464	NVDLC03HQSmartLightsAE	SPEL	 	Smart Lights
+01013465	NVDLC03HQMoodLightingAE	SPEL	 	Mood Lighting
+0101353A	NVDLC03X8NightStalkerExp	CREA	 	Nightstalker
+01013574	NVDLC03SinkJukeBoxLockedA	ACTI	 	Disabled Jukebox
+01013581	NVDLC03HQBookChuteMSG	MESG	 	Process Materials?
+01013586	NVDLC03VendingMachine	ACTI	 	Holo-Vending Machine
+01013608	NVDLC03CyberDogFaction	FACT	 	Cyber Dog Faction
+0101363B	NVDLC03X8BarkTrigger	ACTI	 	X8 Plot Bark Trigger
+01013641	NVDLC03X2BarkTrigger	ACTI	 	X2 Plot Bark Trigger
+01013652	NVDLC03Radio	TACT	 	Mysterious Broadcast
+01013653	NVDLC03RadioBroadcast	QUST	 	NVDLC03 Radio Quest
+0101365D	NVDLC03RobotFaction	FACT	 	Robot Faction
+0101365E	NVDLC03CreatureFaction	FACT	 	Creature Faction
+01013687	NVDLC03BigEmptyEnemyFaction	FACT	 	Big Empty Enemy Faction
+010136DB	NVDLC03CrRoboScorpion01b	CREA	 	Robo-Scorpion Mk1b
+010136DC	NVDLC03CrRoboScorpion10b	CREA	 	Robo-Scorpion Mk2b
+010136DD	NVDLC03CrRoboScorpion20b	CREA	 	Robo-Scorpion Mk3b
+010136DE	NVDLC03CrRoboScorpion30b	CREA	 	Robo-Scorpion Mk4b
+010136DF	NVDLC03CrRoboScorpion40b	CREA	 	Robo-Scorpion Mk5b
+010136E0	NVDLC03CrRoboScorpion50b	CREA	 	Robo-Scorpion Mk6b
+0101377C	NVDLC03SkeletonHandL	ARMA	 	SkeletonHandL
+0101377D	NVDLC03SkeletonHandR	ARMA	 	SkeletonHandR
+010137D8	NVDLC03EnableControlsTrigger	ACTI	 	Enable Controls Trigger
+0101387B	NVDLC03DummyNightvisionEffect	MGEF	 	Nightvision
+01013886	NVDLC03SonicGabeKnockdownBE	MGEF	 	Sonic Gun Knockdown
+010138AE	NVDLC03BloodyMessWeapEffect	MGEF	 	Bloody Mess
+01013908	NVDLC03SonicTarantulaCritEffect	SPEL	 	Burning Explosion
+01013909	NVDLC3LootAmmoTier3Box308	CONT	 	Ammunition Box
+01013A23	NVDLC03X12MapMarker	MAPM	 	X-12 Research Center
+01013A59	NVDLC03EnableTrigger	ACTI	 	Enable Linked
+01013A5A	NVDLC03BombCollar	ACTI	 	Head Explosion
+01013A5B	NVDLC03RefugeeLvl	NPC_	 	Yangtze Camp Survivor
+01013A5C	NVDLC03RefugeeAvg	NPC_	 	Yangtze Camp Survivor
+01013A5D	NVDLC03RefugeeEasy	NPC_	 	Yangtze Camp Survivor
+01013A5E	NVDLC03RefugeeHard	NPC_	 	Yangtze Camp Survivor
+01013CFF	AudioTemplateRoboScorpion	CREA	 	AudioTemplateRoboScorpion
+01013D46	NVDLC03HQJukeboxNoEmitterMSG	MESG	 	Sonic Emitter not detected
+01013D47	NVDLC03HQToasterMSG	MESG	 	Need some heat?
+01013D4A	NVDLC03HQToasterNoItemsMSG	MESG	 	Need some heat?
+01013D4B	NVDLC03HQSinkBuddyMSG	MESG	 	Need some water?
+01013D74	NVDLC03HQBioResearchStationNoItemsMSG	MESG	 	Items to process?
+01013D7E	NVDLC03HQUpgradeAutoDocCosmeticNOTE	NOTE	 	Auto-Doc Upgrade: Cosmetic Enhancements
+01013D83	NVDLC03LootSafeWallEmpty	CONT	 	Safe
+01013DAD	NVDLC03CyberDogKnockDownEffect	MGEF	 	NVDLC03CyberDogKnockDownEffect
+01013EA5	NVDLC03HeatWeaponAE	SPEL	 	Set Target On Fire
+01013EA6	NVDLC03DummyHeatWeapBE	MGEF	 	Critical Heat Damage
+01013EA7	NVDLC03DummyHeatWeapOE	ENCH	 	Dummy Crit Heat Damage
+01013EA9	NVDLC03DummyWeapSpeedBE	MGEF	 	Increased Attack Speed
+01013EAA	NVDLC03DummySpeedWeapOE	ENCH	 	Dummy Weap Atk Speed
+01013EB2	NVDLC03AntennaClubParlyzsisFxBE	MGEF	 	Antenna Club Paralysis FX
+01013EB3	NVDLC03ParalyzeSelfBE	MGEF	 	Paralyze Self
+01013EB4	NVDLC03DummyCriticalParalysisBE	MGEF	 	Critical Strike Paralysis (10s)
+01013EB5	NVDLC03DummyCritParalysisOE	ENCH	 	Dummy Crit Paralysis Effect
+01013EB6	NVDLC03AntennaClubParalysisAE	SPEL	 	Antenna Club Paralysis
+01013EB8	NVDLC03X13TestAreaANote	NOTE	 	Test Area A - Review
+01013F03	NVDLC03DummyAcidWeapBE	MGEF	 	Critical Acid Damage
+01013F05	NVDLC03AcidWeapSfxBE	MGEF	 	Acid Spray MSG/Sfx
+01013F06	NVDLC03AcidWeapAE	SPEL	 	Acid Weapon Critical
+01013F07	NVDLC03DummyAcidWeapOE	ENCH	 	Dummy Acid Damage
+01013FA5	AudioTemplateBrainBot	CREA	 	AudioTemplateBrainBot
+01013FFD	NVDLC03BrainTankOpenTimer	QUST	 	Brain Tank Open Timer
+01014160	AudioTemplateSecuritronMuggy	CREA	 	AudioTemplateSecuritronMuggy
+01014177	NVDLC03HazmatField	ACTI	 	Hazmat Suit Containment Unit
+01014178	NVDLC03HazmatSuit	ACTI	 	Hazmat Suit
+0101417A	NVDLC03CrSporePlant10Respawn	CREA	 	Spore Plant
+0101417B	NVDLC03CrSporePlant20Respawn	CREA	 	Spore Plant
+0101417C	NVDLC03CrSporePlant30Respawn	CREA	 	Spore Plant
+0101417D	NVDLC03CrSporePlant40Respawn	CREA	 	Spore Plant
+0101417E	NVDLC03CrSporePlant50Respawn	CREA	 	Spore Plant
+01014180	NVDLC03CrSecuritronDamaged01	CREA	 	Damaged Securitron Mk1
+01014181	NVDLC03CrSecuritronDamaged10	CREA	 	Damaged Securitron Mk2
+01014182	NVDLC03CrSecuritronDamaged20	CREA	 	Damaged Securitron Mk3
+01014183	NVDLC03CrSecuritronDamaged30	CREA	 	Damaged Securitron Mk4
+01014184	NVDLC03CrSecuritronDamaged40	CREA	 	Damaged Securitron Mk5
+01014185	NVDLC03CrSecuritronDamaged50	CREA	 	Damaged Securitron Mk6
+01014188	NVDLC03CrSporePlant01Respawn	CREA	 	Spore Plant
+0101418D	NVDLC03HazmatNote	NOTE	 	Hazmat Pod Security Code
+010141AB	NVDLC03HologramTemplate	CREA	 	Hologram
+010141CA	NVDLC03GiantRoboscorpionClaw	WEAP	 	Mega Robo-Scorpion Claw
+010141CC	NVDLC03X8TunnelHoloBox	ACTI	 	X8 Tunnel Hologram Code Box
+010141DC	NVDLC03BorousKey	KEYM	 	Borous' Basement Key
+010141E4	NVDLC03TeddyBear	MISC	 	Dala's Teddy Bear
+010141E9	NVDLC03SLHexMarker	MAPM	 	X-66 Hexcrete Archipelago
+010141F2	NVDLC03WeatherStationTerminal	TERM	 	Terminal
+010141F5	NVDLC03WeatherStationDuffleBag	CONT	 	Soggy Duffle Bag
+010141F8	NVDLC03ElijahsWatchMarker	MAPM	 	Elijah's Watch
+010141FC	NVDLC03X42Protectron	CREA	 	Protectron Target Drone
+01014240	NVDLC03CrSecuritronBoss	CREA	 	010011110110111001100101
+01014247	NVDLC03SpareComponent	MISC	 	Spare Component
+01014248	NVDLC03DamagedCollar	MISC	 	Deactivated Bomb Collar
+01014249	NVDLC03BrokenDetonator	MISC	 	Broken Detonator
+0101424A	NVDLC03SatelliteDish	MISC	 	Damaged Satellite Dish
+01014253	NVDLC03DeadMansJumpSuit	ARMO	 	Yangtze Camp Jumpsuit
+0101425D	NVDLC03CrCazador01Respawn	CREA	 	Cazador
+0101425E	NVDLC03CrCazador10Respawn	CREA	 	Cazador
+0101425F	NVDLC03CrCazador20Respawn	CREA	 	Cazador
+01014260	NVDLC03CrCazador30Respawn	CREA	 	Cazador
+01014261	NVDLC03CrCazador40Respawn	CREA	 	Cazador
+01014262	NVDLC03CrCazador50Respawn	CREA	 	Cazador
+01014263	NVDLC03CrMisterGutsy01Respawn	CREA	 	Mister Gutsy Mk1
+01014264	NVDLC03CrMisterGutsy10Respawn	CREA	 	Mister Gutsy Mk2
+01014265	NVDLC03CrMisterGutsy20Respawn	CREA	 	Mister Gutsy Mk3
+01014266	NVDLC03CrMisterGutsy30Respawn	CREA	 	Mister Gutsy Mk4
+01014267	NVDLC03CrMisterGutsy50Respawn	CREA	 	Mister Gutsy Mk6
+01014268	NVDLC03CrMisterGutsy40Respawn	CREA	 	Mister Gutsy Mk5
+01014269	NVDLC03CrNightstalker01Respawn	CREA	 	Nightstalker
+0101426A	NVDLC03CrNightstalker10Respawn	CREA	 	Nightstalker
+0101426B	NVDLC03CrNightstalker20Respawn	CREA	 	Nightstalker
+0101426C	NVDLC03CrNightstalker30Respawn	CREA	 	Nightstalker
+0101426D	NVDLC03CrNightstalker40Respawn	CREA	 	Nightstalker
+0101426E	NVDLC03CrNightstalker50Respawn	CREA	 	Nightstalker
+01014270	NVDLC03CrRobobrain01Respawn	CREA	 	Robobrain Mk1
+01014271	NVDLC03CrRobobrain10Respawn	CREA	 	Robobrain Mk2
+01014272	NVDLC03CrRobobrain20Respawn	CREA	 	Robobrain Mk3
+01014273	NVDLC03CrRobobrain30Respawn	CREA	 	Robobrain Mk4
+01014274	NVDLC03CrRobobrain40Respawn	CREA	 	Robobrain Mk5
+01014275	NVDLC03CrRobobrain50Respawn	CREA	 	Robobrain Mk6
+01014277	NVDLC03CrSecuritronBerserk01Respawn	CREA	 	Berserk Securitron Mk1
+01014278	NVDLC03CrSecuritronBerserk10Respawn	CREA	 	Berserk Securitron Mk2
+01014279	NVDLC03CrSecuritronBerserk20Respawn	CREA	 	Berserk Securitron Mk3
+0101427A	NVDLC03CrSecuritronBerserk30Respawn	CREA	 	Berserk Securitron Mk4
+0101427B	NVDLC03CrSecuritronBerserk40Respawn	CREA	 	Berserk Securitron Mk5
+0101427C	NVDLC03CrSecuritronBerserk50Respawn	CREA	 	Berserk Securitron Mk6
+0101427E	NVDLC03CrSecuritronDamaged01Respawn	CREA	 	Damaged Securitron Mk1
+0101427F	NVDLC03CrSecuritronDamaged10Respawn	CREA	 	Damaged Securitron Mk2
+01014280	NVDLC03CrSecuritronDamaged20Respawn	CREA	 	Damaged Securitron Mk3
+01014281	NVDLC03CrSecuritronDamaged30Respawn	CREA	 	Damaged Securitron Mk4
+01014282	NVDLC03CrSecuritronDamaged40Respawn	CREA	 	Damaged Securitron Mk5
+01014283	NVDLC03CrSecuritronDamaged50Respawn	CREA	 	Damaged Securitron Mk6
+01014286	NVDLC03CrSentryBot01Respawn	CREA	 	Sentry Bot Mk1
+01014287	NVDLC03CrSentryBot10Respawn	CREA	 	Sentry Bot Mk2
+01014288	NVDLC03CrSentryBot20Respawn	CREA	 	Sentry Bot Mk3
+01014289	NVDLC03CrSentryBot30Respawn	CREA	 	Sentry Bot Mk4
+0101428A	NVDLC03CrSentryBot40Respawn	CREA	 	Sentry Bot Mk5
+0101428B	NVDLC03CrSentryBot50Respawn	CREA	 	Sentry Bot Mk6
+0101428F	NVDLC03CrProtectron01Respawn	CREA	 	Protectron Mk1
+01014290	NVDLC03CrProtectron10Respawn	CREA	 	Protectron Mk2
+01014291	NVDLC03CrProtectron20Respawn	CREA	 	Protectron Mk3
+01014292	NVDLC03CrProtectron30Respawn	CREA	 	Protectron Mk4
+01014293	NVDLC03CrProtectron40Respawn	CREA	 	Protectron Mk5
+01014294	NVDLC03CrProtectron50Respawn	CREA	 	Protectron Mk6
+010142A2	NVDLC03X13TestEntranceDoor	DOOR	 	Door
+010142A4	NVDLC03X13Perk13Msg	MESG	 	Stealth Suit Mk II v1.3 Downloaded!
+010142A5	NVDLC03X13Perk14Msg	MESG	 	Stealth Suit Mk II v1.4 Downloaded!
+010142A6	NVDLC03X13Perk11Msg	MESG	 	Stealth Suit Mk II v1.1 Downloaded!
+010142A7	NVDLC03X13Perk12Msg	MESG	 	Stealth Suit Mk II v1.2 Downloaded!
+010142C7	NVDLC03X8SchoolTerminal01Sub	TERM	 	X-8 Institutional Test Terminal
+010142C8	NVDLC03X8SchoolTerminal02Sub	TERM	 	X-8 Institutional Test Terminal
+010142C9	NVDLC03X8SchoolTerminal03Sub	TERM	 	X-8 Institutional Test Terminal
+010142CA	NVDLC03SchematicsFIDONote	NOTE	 	Schematics - K9000 FIDO
+01014308	NVDLC03CrGiantRatRADS	CREA	 	Sewer Rat
+01014309	NVDLC03RadRatDeathExplosion	EXPL	 	Rad Rat Death Explosion
+0101431E	NVDLC03RecipeK9000FIDO	RCPE	 	K9000 FIDO Cyberdog Gun Upgrade
+01014344	AudioTemplateBrainBot2	CREA	 	AudioTemplateBrainBot2
+01014348	AudioTemplateNVDLC03RobotMrHandy	CREA	 	AudioTemplateNVDLC03RobotMrHandy
+0101434B	NVDLC03X8CrTurretTunnel	CREA	 	Hall Monitor
+01014373	NVDLC03GenereicWildWasteland	ACTI	 	Generic Wild Wasteland
+010143A7	AudioTemplateCyberDog	CREA	 	AudioTemplateCyberDog
+010143F5	NVDLC03Ulysses	NPC_	 	Ulysses
+010143F8	NVDLC03Christine	NPC_	 	Christine
+01014452	NVDLC03CrTurretBoss	CREA	 	Overclocked Turret
+01014453	NVDLC03CrSporePlantBoss	CREA	 	Dionaea Muscipula
+01014454	NVDLC03CrSporeCarrierBoss	CREA	 	Patient Zero
+01014455	NVDLC03CrSentryBotBoss	CREA	 	RY-589 Ultimo Bot
+01014456	NVDLC03CrRobobrainBoss	CREA	 	Super-Ego
+01014457	NVDLC03CrProtectronCSBoss	CREA	 	Construction Drone Foreman
+01014458	NVDLC03CrProtectronBoss	CREA	 	The Custodian
+01014459	NVDLC03CrNightstalkerBoss	CREA	 	Shadis
+0101445A	NVDLC03CrMisterOrderlyBoss	CREA	 	Doctor Orderly MD PHD DDS
+0101445B	NVDLC03CrMisterHandyBoss	CREA	 	Sparks
+0101445C	NVDLC03CrMisterGutsyBoss	CREA	 	Ironbelly
+0101445D	NVDLC03CrCazadorBoss	CREA	 	Specimen 73
+0101445E	NVDLC03SkeletonBoss	NPC_	 	Y-17 Advanced Animatronic Skeleton
+0101445F	NVDLC03RefugeeBoss1	NPC_	 	Number 34
+01014460	NVDLC03RefugeeBoss2	NPC_	 	Number 27
+01014461	NVDLC03LobotomiteBoss	NPC_	 	Test Subject 1
+01014462	NVDLC03CorpseSuitBoss	NPC_	 	Y-17 Master Trauma Harness
+01014603	NVDLC03DebugTopics	QUST	 	Debug Topics
+0101462D	NVDLC03Holotapes	QUST	 	Big Empty Holotapes
+01014659	NVDLC03X8ExperimentRobobrain02	CREA	 	Robobrain
+0101471B	NVDLC03CrConstructionProtectron	CREA	 	Protectron
+01014747	NVDLC03ChristineMedicalCenterHolotapeNote	NOTE	 	Patient Log: Y-17.0
+01014748	NVDLC03ChristineUlysses01HolotapeNote	NOTE	 	Patient Log: Y-17.5
+01014749	NVDLC03ChristineUlysses02HolotapeNote	NOTE	 	Patient Log: Y-17.9
+0101474A	NVDLC03JukeBoxDirty01	ACTI	 	Jukebox
+01014896	NVDLC03MysteriousCaveMarker	MAPM	 	Mysterious Cave
+01014949	NVDLC03ThinkTankToBigEmptyDoor	DOOR	 	Elevator
+0101495D	NVDLC03PreWarMeat	ALCH	 	Preserved Meat
+0101495E	NVDLC03BattleBrew	ALCH	 	Battle Brew
+0101495F	NVDLC03BattleBrewBox	CONT	 	Metal Box
+01014960	NVDLC03BattleBrewBarrel	CONT	 	Strange Cask
+01014961	NVDLC03BattleBrewStill	ACTI	 	Strange Still
+01014962	NVDLC03HangingMeatActivator	ACTI	 	Hanging Meat
+01014963	NVDLC03RedMist	SPEL	 	Red Mist
+01014967	NVDLC03BattleBrewEquipEffect	MGEF	 	Script Effect
+01014AAF	NVDLC03X8SchoolTrigger01	ACTI	 	X8 School Dog Trigger
+01014AB0	NVDLC03X8SchoolTrigger02	ACTI	 	X8 School Dog Trigger 2
+01014AB1	NVDLC03X8MaintoSchoolDoor	DOOR	 	Door
+01014AB2	NVDLC03X8SchoolDoor01	DOOR	 	Door
+01014AB3	NVDLC03X8Test2SonicEmitterNote	NOTE	 	X-8 Test 2 Sonic Emitter Note
+01014ABC	NVDLC03SLUlyssesPointINT	CELL	 	Ulysses' Point
+01014ABE	NVDLC03UlyssesMap	ACTI	 	Ulysses' Map
+01014ABF	NVDLC03FoodFreshContainer	CONT	 	Crate
+01014AC0	NVDLC03InvisibleCaveDoor	DOOR	 	Exit to Big MT
+01014AC1	NVDLC03BlankHolodisk	MSTT	 	Blank Holotape
+01014B1F	NVDLC03ReinforcedSpineStrBoostAE	SPEL	 	Reinforced Spine
+01014B4E	NVDLC03SLUlyssesPointMarker	MAPM	 	Ulysses' Point
+01014B5E	NVDLC03musCtrlGnrcVault	ALOC	 	NVDLC03musCtrlGnrcVault
+01014B6E	NVDLC03SLLoadingMarker	MAPM	 	Loading Station
+01014B80	NVDLC03X8CyberdogGunNote	NOTE	 	Request for Assistance
+01014B86	NVDLC03X13SonicEmitterFieldNote	NOTE	 	Sonic Emitter Data
+01014BF8	NVDLC03ThinkTankDoctorBorous	QUST	 	A Brain's Best Friend
+01014C2C	NVDLC03ThinkTankDoctorDala	QUST	 	Coming Out Of Her Shell
+01014C2D	NVDLC03ThinkTankDoctorKlein	QUST	 	He Came... And Went
+01014C63	NVDLC03ThinkTankDoctor8	QUST	 	On The Same Wavelength
+01014CFB	NVDLC03ThinkTankDoctor0a	QUST	 	What's In A Name?
+01014CFE	NVDLC03ThinkTankDoctor0b	QUST	 	When Visitors Attack!
+01014D22	NVDLC03EMPProtonAxe	ENCH	 	Electromagnetic Pulse
+01014D74	NVDLC03DummyAdvOpticsEffect	MGEF	 	Adv. Optics
+01014D75	NVDLC03StealthSuitCrouchEffect	MGEF	 	Adv. Optics
+01014D81	NVDLC03ElijahsJournal	ACTI	 	Elijah's Journal
+01014D82	NVDLC03DeadGhoul	NPC_	 	Dead Yangtze Camp Survivor
+01014D83	NVDLC03CorpseSuitAvgRespawn	NPC_	 	Y-17 Trauma Override Harness
+01014D84	NVDLC03CorpseSuitEasyRespawn	NPC_	 	Y-17 Trauma Override Harness
+01014D85	NVDLC03CorpseSuitHardRespawn	NPC_	 	Y-17 Trauma Override Harness
+01014D87	NVDLC03Lobotomite01AvgRespawn	NPC_	 	Lobotomite
+01014D88	NVDLC03Lobotomite01EasyRespawn	NPC_	 	Lobotomite
+01014D89	NVDLC03Lobotomite01HardRespawn	NPC_	 	Lobotomite
+01014D8B	NVDLC03CrSewerRat30Respawn	CREA	 	Sewer Rat
+01014D8C	NVDLC03CrSewerRat40Respawn	CREA	 	Sewer Rat
+01014D8D	NVDLC03CrSewerRat50Respawn	CREA	 	Sewer Rat
+01014D8E	NVDLC03CrSewerRat10Respawn	CREA	 	Sewer Rat
+01014D90	NVDLC03CrSewerRat20Respawn	CREA	 	Sewer Rat
+01014D9D	NVDLC03DummyRedMistEffect	MGEF	 	Red Mist
+01014DF2	NVDLC03X13CrRobobrain	CREA	 	Robobrain
+01014E29	NVDLC03X13RobotFaction	FACT	 	X13 Robots
+01014E4E	NVDLC03DummyHealthRegenBE	MGEF	 	Health Regeneration
+01014E4F	NVDLC03ElijahYangtzeNote1	NOTE	 	Journal Entry - Day 2
+01014E50	NVDLC03ElijahYangtzeNote2	NOTE	 	Journal Entry - Day 3
+01014E51	NVDLC03ElijahYangtzeNote3	NOTE	 	Journal Entry - Day 4
+01014E52	NVDLC03ElijahYangtzeNote4	NOTE	 	Journal Entry - Day 4 - Addendum
+01014EA7	NVDLC03X8SchoolTerminalTest2	TERM	 	Field Disrupter Download Terminal
+01014EA8	NVDLC03X8SchoolTerminalTest2Sub	TERM	 	Field Disrupter Download Terminal
+01014ED9	NVDLC03PitOfDoom	ACTI	 	Pit of Doom
+01014EF4	NVDLC03ProtonInversalExplosion	EXPL	 	Inversal Explosion
+01014EF5	NVDLC03ProtonExplosion	EXPL	 	Proton Explosion
+01014F84	NVDLC03X13DrunkBox	CONT	 	Metal Box
+01014F86	NVDLC03X13VRTestKudosNote	NOTE	 	VR Test Kudos
+01014F87	NVDLC03X13VRTestFWRENote	NOTE	 	FW: RE: VR Test
+01015076	NVDLC03RecipeNightstalkerSqueezins	RCPE	 	Nightstalker Squeezin's
+0101507B	NVDLC03SLBloatFlyCave	CELL	 	Mysterious Cave
+01015088	NVDLC03MadScienceKnockbackBE	MGEF	 	Mad Science Knockback
+01015089	NVDLC03MuggyFaction	FACT	 	Muggy's Very Own Faction!
+01015104	NVDLC03X13StealthArmorPants	ACTI	 	Damaged Prototype
+01015213	NVDLC03PulseDisableMagicEffect	MGEF	 	NVDLC03 Pulse Disable
+0101524F	NVDLC03StealthArmorAcc03	MSTT	 	Damaged Prototype
+01015252	NVDLC03StealthArmorAcc04	MSTT	 	Damaged Prototype
+01015253	NVDLC03StealthArmorBoot	MSTT	 	Damaged Prototype
+01015261	NVDLC03StealthArmorGlove	MSTT	 	Damaged Prototype
+01015262	NVDLC03StealthArmorHelmet	MSTT	 	Damaged Prototype
+0101526F	NVDLC03StealthArmorPants	MSTT	 	Damaged Prototype
+01015274	NVDLC03LegendaryBloatfly	CREA	 	Legendary Bloatfly
+0101527B	NVDLC03LegendaryBloatflyDT	SPEL	 	Legendary Bloatfly Damage Threshold
+0101527E	NVDLC03StealthArmorAcc01	MSTT	 	Damaged Prototype
+0101527F	NVDLC03StealthArmorAcc02	MSTT	 	Damaged Prototype
+01015281	NVDLC03CrDeathclawBossWW	CREA	 	Stripe
+01015285	NVDLC03StripeWildWastelandTrigger	ACTI	 	Stripe Wild Wasteland Trigger
+010152F5	NVDLC03RadiationResistanceAE	SPEL	 	Radiation Resistance
+01015305	NVDLC03EMPAntenna	ENCH	 	Electromagnetic Pulse
+0101530C	NVDLC03X13VREntDoor	DOOR	 	Door
+0101530D	NVDLC03X13VRExitDoor	DOOR	 	Door
+0101530F	NVDLC03LegendaryBloatflyCodeBox	ACTI	 	Legendary Bloatfly Code Box
+01015319	NVDLC03TraitRespecMSG	MESG	 	Psychiatric Evaluation
+01015322	NVDLC03X13TestSelectionTerminal	TERM	 	Test Terminal
+01015323	NVDLC03Turret02Laser2HR	WEAP	 	Laser
+0101533B	NVDLC03DuffleBagHIGH	CONT	 	Duffle Bag
+0101533C	NVDLC03X13ToolboxChems	CONT	 	Toolbox
+010154F6	musSetINCDLC3	MSET	 	musSetINCHostile
+010154F7	NVDLC03SinkTrigger	ACTI	 	Sink Trigger
+010154FB	NVDLC03DummyTeleportDesc	MGEF	 	Teleportation To/From Big MT
+010154FC	NVDLC03DummyTeleporterEffect	ENCH	 	Dummy Teleporter Effect
+01015502	NVDLC03x8GabesDeathCodeBox	ACTI	 	X8 Gabe's Death Code Box
+01015503	NVDLC03X8UtlDoor01	DOOR	 	Door
+01015504	NVDLC03X8LobotomiteDEAD	NPC_	 	Lobotomite
+01015506	NVDLC03X8CrProtectronDEAD	CREA	 	Protectron Mk1
+01015533	NVDLC03HQMuggyMSG	MESG	 	What can Muggy do for you?
+01015534	NVDLC03HQMuggyNoItemsMSG	MESG	 	What can Muggy do for you?
+01015535	NVDLC03HQMuggyNoItemsServicesMSG	MESG	 	What can Muggy do for you?
+01015546	NVDLC03DomeThinkTankDoor	DOOR	 	Elevator
+01015557	NVDLC03SinkElevatorDoor	DOOR	 	Elevator
+01015581	NVDLC03X8ControlPanel01	ACTI	 	Surgical Saw Control Panel
+01015582	NVDLC03X8MaintoCaveDoor	DOOR	 	Door
+010155C0	NVDLC03HQLightSwitch01UpgradeMSG	MESG	 	Smart Lights
+010155C1	NVDLC03HQLightSwitch02UpgradeMSG	MESG	 	Mood Lighting
+010155C2	NVDLC03ModK9000MentatChow	IMOD	 	K9000 Mod - Mentat Chow
+010155C3	NVDLC03ModLAERPrismLens	IMOD	 	LAER Mod - Prismatic Lens
+010155C4	NVDLC03ModLAERAuxRecharger	IMOD	 	LAER Mod - Auxiliary Recharger Clip
+010155C5	NVDLC03ModK9000ReslaRoil	IMOD	 	K9000 Mod - Resla Roil
+010155C6	NVDLC03SonicGunBloodyMess	SPEL	 	Opera Singer Bloody Mess
+010155C7	NVDLC03ElijahWatchJournal	NOTE	 	Elijah's Watch Journal
+010155C8	NVDLC03ElijahSignalHillsPage	NOTE	 	Torn Journal Page
+01015612	NVDLC03HQMuggyUpgradeMSG	MESG	 	Parts Production
+01015613	NVDLC03HQBookChuteUpgradeMSG	MESG	 	Secondary Materials Mulching
+01015614	NVDLC03HQUpgradeMainComputerK9ModReslaRoilNOTE	NOTE	 	Main Computer Upgrade: K9000 Mod [QUOTE]Resla Roil[QUOTE]
+01015615	NVDLC03HQUpgradeMainComputerLAERModAuxClipNOTE	NOTE	 	Main Computer Upgrade: LAER Mod [QUOTE]Auxiliary Recharger Chip[QUOTE]
+01015616	NVDLC03HQUpgradeMainComputerLAERModPrismNOTE	NOTE	 	Main Computer Upgrade: LAER Mod [QUOTE]Prismatic Lens[QUOTE]
+01015617	NVDLC03HQUpgradeMainComputerK9ModMentatChowNOTE	NOTE	 	Main Computer Upgrade: K9000 Mod [QUOTE]Mentat Chow[QUOTE]
+0101561A	NVDLC03HQMainComputerUpgrade03MSG	MESG	 	LAER Mod [QUOTE]Auxiliary Recharger Clip[QUOTE]
+0101561B	NVDLC03HQMainComputerUpgrade04MSG	MESG	 	LAER Mod [QUOTE]Prismatic Lens[QUOTE]
+0101561C	NVDLC03HQMainComputerUpgrade01MSG	MESG	 	K9000 Mod [QUOTE]Mentat Chow[QUOTE]
+0101561D	NVDLC03HQMainComputerUpgrade02MSG	MESG	 	K9000 Mod [QUOTE]Resla Roil[QUOTE]
+010157AB	NVDLC03X8TunnelBarkTrigger03	ACTI	 	X8 Tunnel Bark Trigger
+010157AC	NVDLC03X8TunnelBarkTrigger04	ACTI	 	X8 Tunnel Bark Trigger
+010157AD	NVDLC03X8TunnelBarkTrigger02	ACTI	 	X8 Tunnel Bark Trigger
+010157AE	NVDLC03X8TunnelBarkTrigger05	ACTI	 	X8 Tunnel Bark Trigger
+010157AF	NVDLC03X8SchoolIntercom	TACT	 	Intercom
+010157B0	NVDLC03X8TunnelIntercom	TACT	 	Intercom
+010157B1	NVDLC03X8Intercom03	TACT	 	Intercom
+010157FC	NVDLC03SonicRevExplosionSmall	EXPL	 	Missile Explosion
+01015800	NVDLC03CrCyberDogMilitary01Ranged	CREA	 	Military Cyber Dog
+01015801	NVDLC03CrCyberDogMilitary20Ranged	CREA	 	Military Cyber Dog
+01015802	NVDLC03CrCyberDogMilitary30Ranged	CREA	 	Military Cyber Dog
+01015803	NVDLC03CrCyberDogMilitary40Ranged	CREA	 	Military Cyber Dog
+01015809	NVDLC03CrCyberDogMilitary50Ranged	CREA	 	Military Cyber Dog
+01015810	NVDLC03X13DoorTerminal	TERM	 	Terminal
+010158A7	NVDLC03X8LibraryDownDoor	DOOR	 	Door
+010158A8	NVDLC03X8LibraryUpDoor	DOOR	 	Door
+010158A9	NVDLC03RecipeBattleBrew	RCPE	 	Battle Brew
+010158AB	NVDLC03DummyMicroRegenBE	MGEF	 	Micro Regeneration
+010158AC	NVDLC03MicroRegen	MGEF	 	Micro Regeneration
+010158AD	NVDLC03MicroRegenOE	ENCH	 	Micro Regeneration
+010158AF	NVDLC03MinorRegen	MGEF	 	Minor Regeneration
+010158B0	NVDLC03DummyMinorRegenBE	MGEF	 	Minor Regeneration
+010158B1	NVDLC03MinorRegenOE	ENCH	 	Minor Regneration
+010158B3	NVDLC03HQMainComputerUpgrade05MSG	MESG	 	Sonic Emitter - Revelation
+010158B4	NVDLC03HQJukeBoxInputMSG	MESG	 	Soundwave Recalibration
+010158B5	NVDLC03HQJukeboxOutputMSG	MESG	 	Soundwave Recalibration
+010158B6	NVDLC03HQSinkBuddyUpgradeMSG	MESG	 	Empty Bottles to Purified Water
+010158F3	NVDLC03TerminalChemicalNote	NOTE	 	Requisition Order: Chemical Suits
+010158F4	NVDLC03TerminalY17Note	NOTE	 	Sierra Madre: Test Case?
+010158F5	NVDLC03TerminalYO02Note	NOTE	 	Dispenser Funding Update
+010158F6	NVDLC03TerminalYO01Note	NOTE	 	Requisition Order: Dispensers
+010158F7	NVDLC03TerminalHolograml02Note	NOTE	 	Vera Keyes: Hologram Progress Report
+010158F8	NVDLC03TerminalHolograml01Note	NOTE	 	Requisition Order: Holograms
+01015908	NVDLC03SLYOTerminal	TERM	 	Terminal
+01015909	NVDLC03SLY17Terminal	TERM	 	Terminal
+0101590A	NVDLC03SLHologramTerminal	TERM	 	Terminal
+0101590B	NVDLC03SLChemicalTerminal	TERM	 	Terminal
+01015A82	NVDLC03HQAutoDocPlayerPartsMSG	MESG	 	Swap body parts
+01015A95	NVDLC03X8RobobrainDialogue	QUST	 	Dialogue X8 Robobrain
+01015AB8	NVDLC03FakeCorrosiveGlove	ACTI	 	Corrosive Glove
+01015AD5	NVDLC03HoloBaseCode01Activator	ACTI	 	NVDLC03HoloBaseCode Activator
+01015AD8	NVDLC03GhostHoodGoggleBE	MGEF	 	NightvisionBE
+01015ADB	NVDLC03GhostHoodGogglesOE	ENCH	 	Darklight Cowl
+01015ADC	NVDLC03GhostSuitOE	ENCH	 	Hazmat Protection
+01015ADD	NVDLC03ScienceArmorOE	ENCH	 	Science!
+01015ADE	NVDLC03ScienceWeapOE	ENCH	 	S C I E N C E ! ! !
+01015AE0	NVDLC03GeniusArmorOE	ENCH	 	Super Genius
+01015AE1	NVDLC03MadScienceArmorOE	ENCH	 	Mad Scientist
+01015AE2	NVDLC03LobotomiteGogglesOE	ENCH	 	Lobotomite Goggles
+01015AE3	NVDLC03LobotomiteArmorOE	ENCH	 	Lobotomite Jumpsuit
+01015AE6	NVDLC03LobotomiteReduceSpeedBE	MGEF	 	Reduced Speed Mult
+01015AE7	NVDLC03GlassesDrKlein	ARMO	 	Dr. Klein's Glasses
+01015AE8	NVDLC03GlassesDrMobius	ARMO	 	Dr. Mobius' Glasses
+01015AE9	NVDLC03MadScienceGlassesOE	ENCH	 	Mad Science Sight
+01015AEA	NVDLC03ScienceGlassesOE	ENCH	 	Science Sight
+01015B02	NVDLC03ChallengeMadScientist	CHAL	 	Mad Scientist
+01015B03	NVDLC03ChallengeEvilGenius	CHAL	 	Evil Genius
+01015B04	NVDLC03ChallengeAutomaton	CHAL	 	Automaton
+01015B07	NVDLC03X2AntennaActivator	ACTI	 	X-2 Antenna
+01015B0A	NVDLC03ScienceWeapAE	SPEL	 	Science POW!
+01015B0B	NVDLC03X13VentStashLockpickSkill	CONT	 	Vent
+01015BB0	NVDLC03SpinefulPerk	PERK	 	Spine-full
+01015BB1	NVDLC03BrainfullPerk	PERK	 	Brain-full
+01015BB2	NVDLC03HeartfullPerk	PERK	 	Heart-full
+01015BBA	NVDLC03BigBrainedPerk	PERK	 	Big Brained
+01015BBB	NVDLC03CardiacArrestPerk	PERK	 	Cardiac Arrest
+01015BBC	NVDLC03ReinforcedSpinePerk	PERK	 	Reinforced Spine
+01015BC5	NVDLC03ModifyAggressionFrenzy	MGEF	 	Frenzy (Aggression 3)
+01015BC6	NVDLC03MadScienceWeapOE	ENCH	 	M A D N E S S ! ! !
+01015BC7	NVDLC03MadScienceWeapAE	SPEL	 	Mad Science Attack!
+01015BC9	NVDLC03DummyFrenzyBE	MGEF	 	Critical Hit Frenzy
+01015BCA	NVDLC03DummyWeakenBE	MGEF	 	Critical Hit Weaken (STR/DT)
+01015BCC	NVDLC03FrenzyMessageBE	MGEF	 	Frenzy Message
+01015BEB	NVDLC03RoboscorpionGiantDT10	SPEL	 	Giant Roboscorpion DT 10
+01015BEC	NVDLC03RoboscorpionGiantDT15	SPEL	 	Giant Roboscorpion DT 15
+01015BED	NVDLC03RoboscorpionGiantDT20	SPEL	 	Giant Roboscorpion DT 20
+01015BEE	NVDLC03RoboscorpionGiantDT25	SPEL	 	Giant Roboscorpion DT 25
+01015CC6	NVDLC03X8Terminal05	TERM	 	X-8 Main Terminal
+01015CC7	NVDLC03X8TunnelTerminal02	TERM	 	X-8 Observatory Terminal
+01015CC8	NVDLC03X8CyberdogGunNote02	NOTE	 	Assistance Granted
+01015CC9	NVDLC03X8CyberdogGunNote03	NOTE	 	K9000 Cyberdog Gun Sealed in X-12
+01015CE9	NVDLC03RoboScorpionGiantFaction	FACT	 	Giant Robo-Scorpion Faction
+01015D3A	NVDLC03ForbiddenDoorSTATIC	DOOR	 	Door
+01015D3B	NVDLCYangtzeGate	DOOR	 	Gate
+01015D76	NVDLC03SecuritronDamagedFaction	FACT	 	Damaged/Berserk Securitron Faction
+01015DCE	NVDLC03X13SuitcaseKennelKey	CONT	 	Suitcase
+01015DD3	NVDLC03WeapLaerUniqueElijah	WEAP	 	Elijah's Advanced LAER
+01015DD5	NVDLC03BodyPartTankSpineActivator	ACTI	 	Tank
+01015DD6	NVDLC03BodyPartTankHeartActivator	ACTI	 	Tank
+01015DD7	NVDLC03BodyPartTankBrainActivator	ACTI	 	Tank
+01015EF8	NVDLC03GenericDialogueRoboScorpion	QUST	 	Robo-Scorpion Generic Dialogue
+01015EF9	NVDLC03GenericDialogueRoboScorpionGiant	QUST	 	Giant Robo-Scorpion Generic Dialogue
+01015EFA	NVDLC03GenericDialogueCorpseSuit	QUST	 	Corpse Suit Generic Dialogue
+01015EFB	NVDLC03GenericDialogueSecuritronDamaged	QUST	 	Damaged Securitron Generic Dialogue
+01015F7E	NVDLC03BrainTank	CREA	 	Brain Tank
+01015FA2	NVDLC03X8UtlDoor02	DOOR	 	Door
+01016049	NVDLC03BigBrainMirrorPerk	PERK	 	Big-Brained
+0101604A	NVDLC03CardiacArrestMirrorPerk	PERK	 	Cardiac Arrest
+0101604B	NVDLC03ReinforcedSpineMirrorPerk	PERK	 	Reinforced Spine
+0101604D	NVDLC03TraumaHarnessNote	NOTE	 	Y-17 Trauma Harness Testing Results
+0101604E	NVDLC03YangtzeNote1	NOTE	 	Little Yangtze Log #01
+0101604F	NVDLC03YangtzeNote2	NOTE	 	Little Yangtze Log #02
+01016050	NVDLC03YangtzeNote3	NOTE	 	Little Yangtze Log #03
+01016051	NVDLC03YangtzeTerminal	TERM	 	Little Yangtze Log Terminal
+01016156	NVDLC03PlayerBrainFaction	FACT	 	Player Brain Faction
+01016342	NVDLC03walkingeye	MSTT	 	Walking Eye
+0101634B	NVDLC03HQBuddyCentralIntelligenceNOTE	NOTE	 	Sink Project: Central Intelligence Unit
+0101634C	NVDLC03X13VRNote	NOTE	 	VR Simulation Note
+01016604	Lobotomites	RACE	 	Lobotomites
+0101662D	NVDLC03ForbiddenDomeDoor	DOOR	 	Elevator
+010166E0	NVDLC03DomeTheSinkDoor	DOOR	 	Elevator
+010166E2	NVDLC03SonicEmitterQuest	QUST	 	Sonic Emitter Upgrade
+0101688F	NVDLC03X12Terminal	TERM	 	X-12 Terminal
+010168CB	NVDLC03GiantRoboScorpionExplosion	EXPL	 	Nuke Explosion
+01016955	NVDLC03ReduceDT	MGEF	 	Reduced Damage Threshold
+01016958	NVDLC03HQAutodocImplantNoCapsMSG	MESG	 	Implant Interface
+010169CF	AudioTemplateDogGabe	CREA	 	AudioTemplateDogGabe
+010169E5	NVDLC03RecipeSkillBookBarterITEM	MISC	 	Recipes - Barter Skill Book
+010169E6	NVDLC03RecipeSkillBookEnergyWeapITEM	MISC	 	Recipes - Energy Weapons Skill Book
+010169E7	NVDLC03RecipeSkillBookExplosivesITEM	MISC	 	Recipes - Explosives Skill Book
+010169E8	NVDLC03RecipeSkillBookGunsITEM	MISC	 	Recipes - Guns Skill Book
+010169E9	NVDLC03RecipeSkillBookLockpickingITEM	MISC	 	Recipes - Lockpick Skill Book
+010169EA	NVDLC03RecipeSkillBookMedicineITEM	MISC	 	Recipes - Medicine Skill Book
+010169EC	NVDLC03RecipeSkillBookRepairITEM	MISC	 	Recipes - Repair Skill Book
+010169ED	NVDLC03RecipeSkillBookScienceITEM	MISC	 	Recipes - Science Skill Book
+010169EE	NVDLC03RecipeSkillBookSneakITEM	MISC	 	Recipes - Sneak Skill Book
+010169EF	NVDLC03RecipeSkillBookSpeechITEM	MISC	 	Recipes - Speech Skill Book
+010169F0	NVDLC03RecipeSkillBookSurvivalITEM	MISC	 	Recipes - Survival Skill Book
+010169F1	NVDLC03RecipeSkillBookUnarmedITEM	MISC	 	Recipes - Unarmed Skill Book
+010169F4	NVDLC03RecipeSkillBookMeleeWeapITEM	MISC	 	Recipes - Melee Weapons Skill Book
+01016A4B	NVDLC03WeapProtonAxe	WEAP	 	Proton Axe
+01016A50	NVDLC03InvisibleDoorDup	DOOR	 	Door
+01016A53	NVDLC03MetroGateDup	DOOR	 	Gate
+01016A7E	NVDLC03PulseGunProjectile	PROJ	 	Laser Beam
+01016A7F	NVDLC03SinkDrinkSpell	SPEL	 	Sink Drink Spell
+01016A82	NVDLC03EncCodeBox02	ACTI	 	Encounter Code Box for Box #7
+001532F7	SLCavern01INT	CELL	 	Morning Star Cavern
+00034070	BowlDog	MISC	 	Dog Bowl
+00154825	SLCavern02INT	CELL	 	Walking Box Cavern
+00015673	BrotherhoodSoldier	CLAS	 	Brotherhood of Steel Soldier
+0015626C	SLRubyHillMineINT	CELL	 	Ruby Hill Mine
+000D6FA8	BisonSteve02	CELL	 	The Bison Steve Hotel
+00158194	SLSulfurCave01INT	CELL	 	Bloodborne Cave
+00057E8E	SentryBotMinigun2HR	WEAP	 	SentryBot Minigun
+00138A9E	Vault34c	CELL	 	Vault 34 - Armory
+00159AC5	MojaveDriveInMapMarker	MAPM	 	Mojave Drive-in
+0003A36B	EMP	ENCH	 	Electromagnetic Pulse
+000DA726	WastelandNV	WRLD	 	Mojave Wasteland
+0011A8E4	WeapNVHatchet	WEAP	 	Hatchet
+0007AE95	GenericFeralGhoul	QUST	 	Feral Ghoul Dialogue Quest
+0007B235	CrTurret01	CREA	 	Mark II Turret
+0015B75B	SLSulfurCave02INT	CELL	 	Nopah Cave
+01000800	WeapNVDLC00Faderator	WEAP	 	The Faderator
+01000803	NVDLC03X8School	CELL	 	X-8 Institutional Test Facility
+0015C89A	SLBasincreekINT	CELL	 	The Basincreek Building
+01000E81	NVDLC03BigMT	WRLD	 	Big MT
+01002E82	NVDLC03X42	CELL	 	X-42 Robo-Warfare Facility
+01002FCA	NVDLC03MQ00	QUST	 	Midnight Science-Fiction Feature!
+01002FCB	NVDLC03MQ01	QUST	 	Welcome to the Big Empty
+01002FCC	NVDLC03MQ05	QUST	 	Old World Blues
+01002FCD	NVDLC03MQ02	QUST	 	X-2: Strange Transmissions!
+01002FCE	NVDLC03MQ03	QUST	 	X-8: High School Horror!
+01002FCF	NVDLC03MQ04	QUST	 	X-13: Attack of the Infiltrator!
+01002FD1	NVDLC03LoadMessage02	MESG	 	Old World Blues Loaded
+01002FD3	NVDLC03LoadMessage01	MESG	 	Old World Blues
+010030AF	NVDLC03TheSink	CELL	 	The Sink
+010030B5	NVDLC03ThinkTank	CELL	 	Think Tank
+01003250	NVDLC03BrainBot	CREA	 	BrainBot Template
+01003255	NVDLC03DoctorKlein01	CREA	 	Doctor Klein
+01003256	NVDLC03DialogueKlein	QUST	 	Dialogue Dr. Klein
+0100325F	NVDLC03Slideshow	CELL	 	Old World Blues Narration
+0100326E	NVDLC03SlideshowTrigger	ACTI	 	NVDLC03 Slide Show Trigger
+0100328C	NVDLC03X13	CELL	 	X-13 Testing Facility
+01003719	NVDLC03X13Nightstalker	CREA	 	Nightstalker
+01003732	NVDLC03DoctorMobius01	CREA	 	Doctor Mobius
+01003733	NVDLC03DialogueMobius	QUST	 	Dialogue Dr. Mobius
+01003737	NVDLC03Narrator	NPC_	 	Narrator
+010038C6	NVDLC03PlayerStartTrigger	ACTI	 	NVDLC03 Player Start Trigger
+010039A0	NVDLC03Ending	QUST	 	Ending Slide Sequence
+01003D48	NVDLC03X8Tunnel	CELL	 	X-8 Testing Facility
+01003D49	NVDLC03X8Cave	CELL	 	X-8 Residential Test Facility
+01003D4A	NVDLC03X8Main	CELL	 	X-8 Central Facility
+01003E36	NVDLC03X8Terminal01	TERM	 	X-8 Test Terminal
+0100402F	NVDLC03ForbiddenZone	CELL	 	The Forbidden Zone Dome
+01004238	NVDLC03SLWeatherStationINT	CELL	 	X-17 Meteorological Station
+01004521	NVDLC03AutoDoc	ACTI	 	Prototype Auto-Doc
+01004527	NVDLC03SinkRefrigerator	CONT	 	Refrigerator
+01004530	NVDLC03HQAutoDocMsg	MESG	 	Prototype Auto-Doc
+010045CA	NVDLC03BrokenGrateDoor	DOOR	 	Broken Grate
+010045D0	NVDLC03SLSaturniteINT	CELL	 	Saturnite Alloy Research Facility

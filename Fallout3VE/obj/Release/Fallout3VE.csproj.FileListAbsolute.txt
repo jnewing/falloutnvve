@@ -1,0 +1,80 @@
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.8\Fallout3VE\Fallout3VE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.8\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.Csv.Resources.ExceptionMessage.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.8\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmAbout.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.8\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmMain.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.8\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmSearch.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.8\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.Properties.Resources.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.8\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.csproj.GenerateResource.Cache
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.8\Fallout3VE\Fallout3VE\obj\Release\FalloutNV VE.exe.licenses
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\FalloutNV VE.exe
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\FalloutNV VE.pdb
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Data.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Utils.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraBars.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraEditors.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraGrid.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\XLib.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\XLib.pdb
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Data.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraBars.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Utils.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraEditors.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraGrid.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.Csv.Resources.ExceptionMessage.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmAbout.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmMain.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmSearch.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.Properties.Resources.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.csproj.GenerateResource.Cache
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\obj\Release\FalloutNV VE.exe.licenses
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\obj\Release\FalloutNV VE.exe
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v3.9\Fallout3VE\Fallout3VE\obj\Release\FalloutNV VE.pdb
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\FalloutNV VE.exe
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\FalloutNV VE.pdb
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Data.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Utils.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraBars.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraEditors.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraGrid.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\XLib.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\XLib.pdb
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Data.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraBars.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Utils.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraEditors.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraGrid.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.Csv.Resources.ExceptionMessage.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmAbout.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmMain.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmSearch.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.Properties.Resources.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.csproj.GenerateResource.Cache
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\obj\Release\FalloutNV VE.exe.licenses
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\obj\Release\FalloutNV VE.exe
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.0\Fallout3VE\Fallout3VE\obj\Release\FalloutNV VE.pdb
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\FalloutNV VE.exe
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\FalloutNV VE.pdb
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Data.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Utils.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraBars.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraEditors.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraGrid.v9.3.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\XLib.dll
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\XLib.pdb
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Data.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraBars.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\DevExpress.Utils.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraEditors.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\bin\Release\DevExpress.XtraGrid.v9.3.xml
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.Csv.Resources.ExceptionMessage.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmAbout.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmMain.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.frmSearch.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.Properties.Resources.resources
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\obj\Release\Fallout3VE.csproj.GenerateResource.Cache
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\obj\Release\FalloutNV VE.exe.licenses
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\obj\Release\FalloutNV VE.exe
+C:\Users\jnewing\Desktop\Programming\FalloutVE\FalloutNV VE v4.1\Fallout3VE\Fallout3VE\obj\Release\FalloutNV VE.pdb
